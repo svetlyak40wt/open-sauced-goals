@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "ultralisp/ultralisp",
+    "stargazers_count": 180,
+    "open_issues_count": 37,
+    "forks_count": 9
+  },
+  {
+    "full_name": "compufox/with-user-abort",
+    "stargazers_count": 11,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "qitab/grpc",
     "stargazers_count": 55,
     "open_issues_count": 1,
@@ -19,15 +31,15 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 246,
-    "open_issues_count": 12,
-    "forks_count": 9
+    "stargazers_count": 252,
+    "open_issues_count": 14,
+    "forks_count": 12
   },
   {
     "full_name": "Rudolph-Miller/jonathan",
     "stargazers_count": 146,
     "open_issues_count": 23,
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "full_name": "fukamachi/dexador",
@@ -43,7 +55,7 @@
   },
   {
     "full_name": "craigl64/clim2",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 31873,
-    "open_issues_count": 70,
-    "forks_count": 2062
+    "stargazers_count": 31929,
+    "open_issues_count": 71,
+    "forks_count": 2063
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -103,7 +115,7 @@
   },
   {
     "full_name": "codez0mb1e/resistance",
-    "stargazers_count": 569,
+    "stargazers_count": 570,
     "open_issues_count": 1,
     "forks_count": 38
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "inconvergent/weird",
-    "stargazers_count": 1443,
+    "stargazers_count": 1445,
     "open_issues_count": 0,
     "forks_count": 46
-  },
-  {
-    "full_name": "ciel-lang/CIEL",
-    "stargazers_count": 41,
-    "open_issues_count": 8,
-    "forks_count": 4
-  },
-  {
-    "full_name": "yorodm/cl-rx",
-    "stargazers_count": 11,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
