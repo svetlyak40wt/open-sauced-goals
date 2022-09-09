@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "davidsun0/stantler",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ultralisp/ultralisp",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 37,
     "forks_count": 9
   },
   {
     "full_name": "compufox/with-user-abort",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 255,
+    "stargazers_count": 264,
     "open_issues_count": 18,
     "forks_count": 15
   },
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "fukamachi/dexador",
-    "stargazers_count": 287,
+    "stargazers_count": 288,
     "open_issues_count": 27,
     "forks_count": 34
   },
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 31981,
+    "stargazers_count": 32018,
     "open_issues_count": 72,
     "forks_count": 2064
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "inconvergent/weird",
-    "stargazers_count": 1445,
-    "open_issues_count": 0,
-    "forks_count": 46
   }
 ]
