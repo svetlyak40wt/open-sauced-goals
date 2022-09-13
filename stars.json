@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Lovesan/bike",
+    "stargazers_count": 113,
+    "open_issues_count": 6,
+    "forks_count": 4
+  },
+  {
     "full_name": "davidsun0/stantler",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -19,13 +25,13 @@
   },
   {
     "full_name": "qitab/grpc",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "haranrk/YTPO",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 264,
-    "open_issues_count": 18,
-    "forks_count": 15
+    "stargazers_count": 267,
+    "open_issues_count": 17,
+    "forks_count": 16
   },
   {
     "full_name": "Rudolph-Miller/jonathan",
-    "stargazers_count": 146,
+    "stargazers_count": 147,
     "open_issues_count": 23,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "fukamachi/dexador",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 32018,
-    "open_issues_count": 72,
-    "forks_count": 2064
+    "stargazers_count": 32065,
+    "open_issues_count": 73,
+    "forks_count": 2066
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "quil-lang/sbcl-librarian",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 8,
     "forks_count": 9
   },
   {
     "full_name": "codez0mb1e/resistance",
-    "stargazers_count": 570,
+    "stargazers_count": 573,
     "open_issues_count": 1,
     "forks_count": 38
   },
@@ -153,7 +159,7 @@
     "full_name": "atlas-engineer/nhooks",
     "stargazers_count": 12,
     "open_issues_count": 4,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "sheepduke/silver-brain",
@@ -172,11 +178,5 @@
     "stargazers_count": 8,
     "open_issues_count": 2,
     "forks_count": 0
-  },
-  {
-    "full_name": "alekssamos/yandexfreetranslate",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
