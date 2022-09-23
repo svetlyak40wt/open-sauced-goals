@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "wlbr/cl-marshal",
+    "stargazers_count": 52,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
     "full_name": "Lovesan/bike",
     "stargazers_count": 113,
     "open_issues_count": 6,
@@ -44,7 +50,7 @@
   {
     "full_name": "kaveh808/kons-9",
     "stargazers_count": 276,
-    "open_issues_count": 20,
+    "open_issues_count": 19,
     "forks_count": 16
   },
   {
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 32167,
-    "open_issues_count": 73,
-    "forks_count": 2070
+    "stargazers_count": 32206,
+    "open_issues_count": 75,
+    "forks_count": 2072
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -104,7 +110,7 @@
   {
     "full_name": "dnaeon/cl-migratum",
     "stargazers_count": 34,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
@@ -122,12 +128,12 @@
   {
     "full_name": "quil-lang/sbcl-librarian",
     "stargazers_count": 52,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 9
   },
   {
     "full_name": "codez0mb1e/resistance",
-    "stargazers_count": 575,
+    "stargazers_count": 576,
     "open_issues_count": 1,
     "forks_count": 37
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 5,
     "forks_count": 1
-  },
-  {
-    "full_name": "julian-baldwin/parachute-browser",
-    "stargazers_count": 8,
-    "open_issues_count": 2,
-    "forks_count": 0
   }
 ]
