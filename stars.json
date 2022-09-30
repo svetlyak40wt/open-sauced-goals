@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "Shinmera/luckless",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "wlbr/cl-marshal",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -13,13 +19,13 @@
   },
   {
     "full_name": "davidsun0/stantler",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "ultralisp/ultralisp",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 37,
     "forks_count": 9
   },
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "qitab/grpc",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -49,8 +55,8 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 279,
-    "open_issues_count": 19,
+    "stargazers_count": 289,
+    "open_issues_count": 18,
     "forks_count": 16
   },
   {
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 32264,
+    "stargazers_count": 32318,
     "open_issues_count": 75,
-    "forks_count": 2071
+    "forks_count": 2072
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -110,8 +116,8 @@
   {
     "full_name": "dnaeon/cl-migratum",
     "stargazers_count": 34,
-    "open_issues_count": 1,
-    "forks_count": 3
+    "open_issues_count": 0,
+    "forks_count": 2
   },
   {
     "full_name": "jetmonk/cl-libserialport",
@@ -164,19 +170,13 @@
   {
     "full_name": "atlas-engineer/nhooks",
     "stargazers_count": 12,
-    "open_issues_count": 4,
-    "forks_count": 5
+    "open_issues_count": 5,
+    "forks_count": 6
   },
   {
     "full_name": "sheepduke/silver-brain",
     "stargazers_count": 24,
     "open_issues_count": 4,
-    "forks_count": 1
-  },
-  {
-    "full_name": "WhiteApfel/raiffather",
-    "stargazers_count": 4,
-    "open_issues_count": 5,
     "forks_count": 1
   }
 ]
