@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "dbmcclain/Lisp-Actors",
+    "stargazers_count": 52,
+    "open_issues_count": 2,
+    "forks_count": 8
+  },
+  {
+    "full_name": "szos/cl-advice",
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "ak-coram/cl-duckdb",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -38,7 +50,7 @@
   {
     "full_name": "ultralisp/ultralisp",
     "stargazers_count": 182,
-    "open_issues_count": 37,
+    "open_issues_count": 36,
     "forks_count": 9
   },
   {
@@ -61,26 +73,26 @@
   },
   {
     "full_name": "gregcman/lem-opengl",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 313,
-    "open_issues_count": 20,
+    "stargazers_count": 316,
+    "open_issues_count": 21,
     "forks_count": 19
   },
   {
     "full_name": "Rudolph-Miller/jonathan",
-    "stargazers_count": 148,
+    "stargazers_count": 149,
     "open_issues_count": 24,
     "forks_count": 25
   },
   {
     "full_name": "fukamachi/dexador",
     "stargazers_count": 288,
-    "open_issues_count": 28,
+    "open_issues_count": 27,
     "forks_count": 35
   },
   {
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 32583,
-    "open_issues_count": 92,
-    "forks_count": 2097
+    "stargazers_count": 32626,
+    "open_issues_count": 94,
+    "forks_count": 2099
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -166,17 +178,5 @@
     "stargazers_count": 49,
     "open_issues_count": 7,
     "forks_count": 7
-  },
-  {
-    "full_name": "CommonDoc/common-doc",
-    "stargazers_count": 33,
-    "open_issues_count": 14,
-    "forks_count": 4
-  },
-  {
-    "full_name": "inaimathi/cl-css",
-    "stargazers_count": 45,
-    "open_issues_count": 2,
-    "forks_count": 3
   }
 ]
