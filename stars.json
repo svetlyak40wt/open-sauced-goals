@@ -13,14 +13,14 @@
   },
   {
     "full_name": "ak-coram/cl-duckdb",
-    "stargazers_count": 5,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "fisxoj/json-schema",
     "stargazers_count": 12,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 316,
-    "open_issues_count": 21,
+    "stargazers_count": 320,
+    "open_issues_count": 20,
     "forks_count": 19
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 32626,
+    "stargazers_count": 32682,
     "open_issues_count": 94,
-    "forks_count": 2099
+    "forks_count": 2105
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -128,7 +128,7 @@
   {
     "full_name": "boxer-project/boxer-sunrise",
     "stargazers_count": 30,
-    "open_issues_count": 22,
+    "open_issues_count": 21,
     "forks_count": 2
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "codez0mb1e/resistance",
-    "stargazers_count": 582,
+    "stargazers_count": 584,
     "open_issues_count": 1,
     "forks_count": 37
   },
@@ -176,7 +176,7 @@
   {
     "full_name": "qitab/bazelisp",
     "stargazers_count": 49,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 7
   }
 ]
