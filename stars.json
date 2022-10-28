@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "eyedouble/cl-json-web-tokens",
+    "stargazers_count": 5,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "dbmcclain/Lisp-Actors",
     "stargazers_count": 52,
     "open_issues_count": 2,
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "ultralisp/ultralisp",
-    "stargazers_count": 182,
+    "stargazers_count": 183,
     "open_issues_count": 36,
     "forks_count": 9
   },
@@ -61,13 +67,13 @@
   },
   {
     "full_name": "qitab/grpc",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "haranrk/YTPO",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -79,13 +85,13 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 320,
-    "open_issues_count": 20,
-    "forks_count": 19
+    "stargazers_count": 335,
+    "open_issues_count": 19,
+    "forks_count": 20
   },
   {
     "full_name": "Rudolph-Miller/jonathan",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 24,
     "forks_count": 25
   },
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 32682,
-    "open_issues_count": 94,
-    "forks_count": 2105
+    "stargazers_count": 32726,
+    "open_issues_count": 96,
+    "forks_count": 2109
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "quil-lang/sbcl-librarian",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 8,
     "forks_count": 9
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "qitab/bazelisp",
-    "stargazers_count": 49,
-    "open_issues_count": 8,
-    "forks_count": 7
   }
 ]
