@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "nptcl/npt",
+    "stargazers_count": 124,
+    "open_issues_count": 2,
+    "forks_count": 6
+  },
+  {
     "full_name": "eyedouble/cl-json-web-tokens",
     "stargazers_count": 5,
     "open_issues_count": 1,
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "Shinmera/luckless",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "qitab/grpc",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -85,8 +91,8 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 361,
-    "open_issues_count": 16,
+    "stargazers_count": 369,
+    "open_issues_count": 18,
     "forks_count": 23
   },
   {
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 32877,
-    "open_issues_count": 66,
-    "forks_count": 2111
+    "stargazers_count": 32907,
+    "open_issues_count": 67,
+    "forks_count": 2112
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "resttime/cl-liballegro",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 2,
     "forks_count": 8
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "codez0mb1e/resistance",
-    "stargazers_count": 589,
+    "stargazers_count": 590,
     "open_issues_count": 1,
     "forks_count": 38
-  },
-  {
-    "full_name": "40ants/reblocks-ui",
-    "stargazers_count": 4,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
