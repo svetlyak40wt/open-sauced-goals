@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "fonol/parrot",
+    "stargazers_count": 13,
+    "open_issues_count": 3,
+    "forks_count": 0
+  },
+  {
     "full_name": "gorozhin/chlorophyll",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "nptcl/npt",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "eyedouble/cl-json-web-tokens",
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "dbmcclain/Lisp-Actors",
-    "stargazers_count": 53,
+    "stargazers_count": 52,
     "open_issues_count": 2,
     "forks_count": 8
   },
@@ -97,20 +103,20 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 383,
+    "stargazers_count": 385,
     "open_issues_count": 22,
     "forks_count": 23
   },
   {
     "full_name": "Rudolph-Miller/jonathan",
     "stargazers_count": 151,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 25
   },
   {
     "full_name": "fukamachi/dexador",
     "stargazers_count": 292,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 35
   },
   {
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 33184,
+    "stargazers_count": 33244,
     "open_issues_count": 72,
-    "forks_count": 2116
+    "forks_count": 2119
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "boxer-project/boxer-sunrise",
-    "stargazers_count": 31,
+    "stargazers_count": 30,
     "open_issues_count": 21,
     "forks_count": 2
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 45,
     "open_issues_count": 2,
     "forks_count": 8
-  },
-  {
-    "full_name": "quil-lang/sbcl-librarian",
-    "stargazers_count": 58,
-    "open_issues_count": 9,
-    "forks_count": 9
   }
 ]
