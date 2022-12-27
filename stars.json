@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "borodust/alien-works-delivery",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "borodust/alien-works",
+    "stargazers_count": 45,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ultralisp/ultralisp",
+    "stargazers_count": 188,
+    "open_issues_count": 38,
+    "forks_count": 9
+  },
+  {
     "full_name": "fonol/parrot",
     "stargazers_count": 14,
     "open_issues_count": 3,
@@ -72,12 +90,6 @@
     "forks_count": 0
   },
   {
-    "full_name": "ultralisp/ultralisp",
-    "stargazers_count": 188,
-    "open_issues_count": 38,
-    "forks_count": 9
-  },
-  {
     "full_name": "compufox/with-user-abort",
     "stargazers_count": 10,
     "open_issues_count": 1,
@@ -109,13 +121,13 @@
   },
   {
     "full_name": "Rudolph-Miller/jonathan",
-    "stargazers_count": 152,
+    "stargazers_count": 153,
     "open_issues_count": 24,
     "forks_count": 25
   },
   {
     "full_name": "fukamachi/dexador",
-    "stargazers_count": 295,
+    "stargazers_count": 296,
     "open_issues_count": 25,
     "forks_count": 35
   },
@@ -133,15 +145,15 @@
   },
   {
     "full_name": "fiddlerwoaroof/objc-lisp-bridge",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 33454,
+    "stargazers_count": 33506,
     "open_issues_count": 70,
-    "forks_count": 2126
+    "forks_count": 2129
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -166,17 +178,5 @@
     "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "jetmonk/cl-libserialport",
-    "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "resttime/cl-liballegro",
-    "stargazers_count": 45,
-    "open_issues_count": 2,
-    "forks_count": 8
   }
 ]
