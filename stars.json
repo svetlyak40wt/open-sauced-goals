@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "juliojimenez/clickhouse-cl",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Shinmera/action-list",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "borodust/alien-works-delivery",
-    "stargazers_count": 22,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -13,7 +25,7 @@
   },
   {
     "full_name": "ultralisp/ultralisp",
-    "stargazers_count": 188,
+    "stargazers_count": 189,
     "open_issues_count": 38,
     "forks_count": 9
   },
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 391,
+    "stargazers_count": 392,
     "open_issues_count": 22,
     "forks_count": 23
   },
@@ -127,7 +139,7 @@
   },
   {
     "full_name": "fukamachi/dexador",
-    "stargazers_count": 297,
+    "stargazers_count": 298,
     "open_issues_count": 25,
     "forks_count": 35
   },
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 33547,
-    "open_issues_count": 70,
-    "forks_count": 2132
+    "stargazers_count": 33594,
+    "open_issues_count": 72,
+    "forks_count": 2134
   },
   {
     "full_name": "aartaka/cl-translit",
@@ -165,18 +177,6 @@
     "full_name": "boxer-project/boxer-sunrise",
     "stargazers_count": 30,
     "open_issues_count": 21,
-    "forks_count": 2
-  },
-  {
-    "full_name": "IgSokolov/cl-replica",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "dnaeon/cl-migratum",
-    "stargazers_count": 35,
-    "open_issues_count": 0,
     "forks_count": 2
   }
 ]
