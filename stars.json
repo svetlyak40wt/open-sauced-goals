@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "jcguu95/cl-schedule",
+    "stargazers_count": 26,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "pocketbase/pocketbase",
+    "stargazers_count": 19336,
+    "open_issues_count": 47,
+    "forks_count": 722
+  },
+  {
+    "full_name": "ilammy/lisp",
+    "stargazers_count": 187,
+    "open_issues_count": 1,
+    "forks_count": 23
+  },
+  {
+    "full_name": "hemml/OMGlib",
+    "stargazers_count": 35,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "juliojimenez/clickhouse-cl",
     "stargazers_count": 1,
     "open_issues_count": 1,
@@ -13,7 +37,7 @@
   },
   {
     "full_name": "borodust/alien-works-delivery",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -25,7 +49,7 @@
   },
   {
     "full_name": "ultralisp/ultralisp",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 38,
     "forks_count": 9
   },
@@ -55,9 +79,9 @@
   },
   {
     "full_name": "dbmcclain/Lisp-Actors",
-    "stargazers_count": 52,
+    "stargazers_count": 55,
     "open_issues_count": 2,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "szos/cl-advice",
@@ -127,8 +151,8 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 392,
-    "open_issues_count": 22,
+    "stargazers_count": 396,
+    "open_issues_count": 24,
     "forks_count": 23
   },
   {
@@ -154,29 +178,5 @@
     "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "fiddlerwoaroof/objc-lisp-bridge",
-    "stargazers_count": 39,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 33594,
-    "open_issues_count": 72,
-    "forks_count": 2134
-  },
-  {
-    "full_name": "aartaka/cl-translit",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "boxer-project/boxer-sunrise",
-    "stargazers_count": 30,
-    "open_issues_count": 21,
-    "forks_count": 2
   }
 ]
