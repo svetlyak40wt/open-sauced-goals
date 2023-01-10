@@ -1,15 +1,15 @@
 [
   {
     "full_name": "jcguu95/cl-schedule",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 19336,
-    "open_issues_count": 47,
-    "forks_count": 722
+    "stargazers_count": 19524,
+    "open_issues_count": 46,
+    "forks_count": 733
   },
   {
     "full_name": "ilammy/lisp",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "ultralisp/ultralisp",
-    "stargazers_count": 190,
+    "stargazers_count": 191,
     "open_issues_count": 38,
     "forks_count": 9
   },
   {
     "full_name": "fonol/parrot",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 3,
     "forks_count": 0
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "nptcl/npt",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 2,
     "forks_count": 7
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "szos/cl-advice",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "qitab/grpc",
-    "stargazers_count": 61,
-    "open_issues_count": 2,
+    "stargazers_count": 60,
+    "open_issues_count": 3,
     "forks_count": 7
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "kaveh808/kons-9",
-    "stargazers_count": 396,
+    "stargazers_count": 397,
     "open_issues_count": 24,
     "forks_count": 23
   },
