@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "cutls/TheDesk",
+    "stargazers_count": 227,
+    "open_issues_count": 44,
+    "forks_count": 26
+  },
+  {
     "full_name": "marcoheisig/common-lisp-tweaks",
-    "stargazers_count": 28,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -25,33 +31,33 @@
   },
   {
     "full_name": "Wukix/LambdaLite",
-    "stargazers_count": 398,
+    "stargazers_count": 397,
     "open_issues_count": 0,
     "forks_count": 30
   },
   {
     "full_name": "Shirakumo/keygen",
-    "stargazers_count": 5,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "hikettei/cl-waffe",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "jcguu95/cl-schedule",
-    "stargazers_count": 29,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 20545,
+    "stargazers_count": 20741,
     "open_issues_count": 41,
-    "forks_count": 786
+    "forks_count": 790
   },
   {
     "full_name": "ilammy/lisp",
@@ -67,8 +73,8 @@
   },
   {
     "full_name": "juliojimenez/clickhouse-cl",
-    "stargazers_count": 3,
-    "open_issues_count": 2,
+    "stargazers_count": 2,
+    "open_issues_count": 75,
     "forks_count": 0
   },
   {
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "Lovesan/bike",
-    "stargazers_count": 115,
+    "stargazers_count": 114,
     "open_issues_count": 6,
     "forks_count": 4
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "compufox/with-user-abort",
-    "stargazers_count": 10,
-    "open_issues_count": 1,
+    "stargazers_count": 14,
+    "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "qitab/grpc",
-    "stargazers_count": 61,
-    "open_issues_count": 5,
-    "forks_count": 7
   }
 ]
