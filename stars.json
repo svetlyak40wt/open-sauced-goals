@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "marcoheisig/Loopus",
+    "stargazers_count": 34,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "marcoheisig/Petalisp",
+    "stargazers_count": 277,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
     "full_name": "cutls/TheDesk",
     "stargazers_count": 227,
-    "open_issues_count": 44,
+    "open_issues_count": 46,
     "forks_count": 26
   },
   {
     "full_name": "marcoheisig/common-lisp-tweaks",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -20,7 +32,7 @@
   {
     "full_name": "roswell/mystic",
     "stargazers_count": 17,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 3
   },
   {
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 20741,
-    "open_issues_count": 41,
-    "forks_count": 790
+    "stargazers_count": 20864,
+    "open_issues_count": 42,
+    "forks_count": 802
   },
   {
     "full_name": "ilammy/lisp",
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "nptcl/npt",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 3,
     "forks_count": 8
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 114,
     "open_issues_count": 6,
     "forks_count": 4
-  },
-  {
-    "full_name": "davidsun0/stantler",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "compufox/with-user-abort",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
