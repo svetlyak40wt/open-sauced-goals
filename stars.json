@@ -1,20 +1,20 @@
 [
   {
     "full_name": "marcoheisig/Loopus",
-    "stargazers_count": 34,
+    "stargazers_count": 40,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "marcoheisig/Petalisp",
     "stargazers_count": 277,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "cutls/TheDesk",
-    "stargazers_count": 227,
-    "open_issues_count": 46,
+    "stargazers_count": 228,
+    "open_issues_count": 47,
     "forks_count": 26
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 20864,
+    "stargazers_count": 20967,
     "open_issues_count": 42,
-    "forks_count": 802
+    "forks_count": 803
   },
   {
     "full_name": "ilammy/lisp",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "juliojimenez/clickhouse-cl",
-    "stargazers_count": 2,
-    "open_issues_count": 75,
+    "stargazers_count": 3,
+    "open_issues_count": 74,
     "forks_count": 0
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "fonol/parrot",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 3,
     "forks_count": 0
   },
