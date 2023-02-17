@@ -1,19 +1,19 @@
 [
   {
     "full_name": "40ants/doc",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "ultralisp/ultralisp",
     "stargazers_count": 194,
-    "open_issues_count": 38,
+    "open_issues_count": 39,
     "forks_count": 10
   },
   {
     "full_name": "fukamachi/dexador",
-    "stargazers_count": 304,
+    "stargazers_count": 306,
     "open_issues_count": 25,
     "forks_count": 35
   },
@@ -21,6 +21,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 840,
     "open_issues_count": 9,
-    "forks_count": 523
+    "forks_count": 529
   }
 ]
