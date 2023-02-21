@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "oyvinht/cl-earley-parser",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "marcoheisig/Loopus",
     "stargazers_count": 40,
     "open_issues_count": 1,
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "cutls/TheDesk",
-    "stargazers_count": 232,
-    "open_issues_count": 47,
-    "forks_count": 26
+    "stargazers_count": 235,
+    "open_issues_count": 48,
+    "forks_count": 28
   },
   {
     "full_name": "marcoheisig/common-lisp-tweaks",
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 21145,
-    "open_issues_count": 40,
-    "forks_count": 813
+    "stargazers_count": 21237,
+    "open_issues_count": 39,
+    "forks_count": 818
   },
   {
     "full_name": "ilammy/lisp",
@@ -86,7 +92,7 @@
   {
     "full_name": "juliojimenez/clickhouse-cl",
     "stargazers_count": 4,
-    "open_issues_count": 64,
+    "open_issues_count": 54,
     "forks_count": 0
   },
   {
@@ -110,7 +116,7 @@
   {
     "full_name": "ultralisp/ultralisp",
     "stargazers_count": 194,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "forks_count": 10
   },
   {
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "nptcl/npt",
-    "stargazers_count": 138,
+    "stargazers_count": 139,
     "open_issues_count": 3,
     "forks_count": 8
   },
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "ak-coram/cl-duckdb",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 54,
     "open_issues_count": 0,
     "forks_count": 6
-  },
-  {
-    "full_name": "Lovesan/bike",
-    "stargazers_count": 114,
-    "open_issues_count": 6,
-    "forks_count": 4
   }
 ]
