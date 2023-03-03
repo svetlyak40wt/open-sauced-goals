@@ -1,9 +1,9 @@
 [
   {
     "full_name": "VitoVan/calm",
-    "stargazers_count": 37,
-    "open_issues_count": 12,
-    "forks_count": 1
+    "stargazers_count": 51,
+    "open_issues_count": 14,
+    "forks_count": 2
   },
   {
     "full_name": "avodonosov/package-doc-dump",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "oyvinht/cl-earley-parser",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "marcoheisig/Petalisp",
-    "stargazers_count": 277,
+    "stargazers_count": 281,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "cutls/TheDesk",
     "stargazers_count": 236,
-    "open_issues_count": 49,
+    "open_issues_count": 50,
     "forks_count": 28
   },
   {
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 21398,
-    "open_issues_count": 41,
-    "forks_count": 826
+    "stargazers_count": 21498,
+    "open_issues_count": 42,
+    "forks_count": 827
   },
   {
     "full_name": "ilammy/lisp",
@@ -110,7 +110,7 @@
   {
     "full_name": "juliojimenez/clickhouse-cl",
     "stargazers_count": 4,
-    "open_issues_count": 40,
+    "open_issues_count": 39,
     "forks_count": 0
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "ultralisp/ultralisp",
-    "stargazers_count": 194,
-    "open_issues_count": 40,
+    "stargazers_count": 195,
+    "open_issues_count": 41,
     "forks_count": 10
   },
   {
