@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "koji-kojiro/cl-repl",
+    "stargazers_count": 134,
+    "open_issues_count": 12,
+    "forks_count": 16
+  },
+  {
     "full_name": "VitoVan/calm",
-    "stargazers_count": 51,
+    "stargazers_count": 55,
     "open_issues_count": 14,
     "forks_count": 2
   },
@@ -38,7 +44,7 @@
   {
     "full_name": "cutls/TheDesk",
     "stargazers_count": 236,
-    "open_issues_count": 50,
+    "open_issues_count": 52,
     "forks_count": 28
   },
   {
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "hikettei/cl-waffe",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "jcguu95/cl-schedule",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 21498,
-    "open_issues_count": 42,
-    "forks_count": 827
+    "stargazers_count": 21574,
+    "open_issues_count": 40,
+    "forks_count": 832
   },
   {
     "full_name": "ilammy/lisp",
@@ -110,7 +116,7 @@
   {
     "full_name": "juliojimenez/clickhouse-cl",
     "stargazers_count": 4,
-    "open_issues_count": 39,
+    "open_issues_count": 35,
     "forks_count": 0
   },
   {
@@ -134,7 +140,7 @@
   {
     "full_name": "ultralisp/ultralisp",
     "stargazers_count": 195,
-    "open_issues_count": 41,
+    "open_issues_count": 42,
     "forks_count": 10
   },
   {
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "gorozhin/chlorophyll",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -171,12 +177,6 @@
     "full_name": "szos/cl-advice",
     "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "ak-coram/cl-duckdb",
-    "stargazers_count": 15,
-    "open_issues_count": 2,
     "forks_count": 1
   }
 ]
