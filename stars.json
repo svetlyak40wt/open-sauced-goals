@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "hikettei/cl-tqdm",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "szmer/ActualScan",
+    "stargazers_count": 3,
+    "open_issues_count": 9,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ddmcdonald/sparser",
+    "stargazers_count": 41,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
+    "full_name": "theangelperalta/cl-objc",
+    "stargazers_count": 14,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "koji-kojiro/cl-repl",
     "stargazers_count": 134,
     "open_issues_count": 12,
@@ -7,7 +31,7 @@
   },
   {
     "full_name": "VitoVan/calm",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 14,
     "forks_count": 2
   },
@@ -19,7 +43,7 @@
   },
   {
     "full_name": "sionescu/sbcl-goodies",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -43,7 +67,7 @@
   },
   {
     "full_name": "cutls/TheDesk",
-    "stargazers_count": 236,
+    "stargazers_count": 238,
     "open_issues_count": 52,
     "forks_count": 28
   },
@@ -55,14 +79,14 @@
   },
   {
     "full_name": "bitspook/cl-ownpress",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "roswell/mystic",
     "stargazers_count": 17,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
@@ -86,7 +110,7 @@
   {
     "full_name": "hikettei/cl-waffe",
     "stargazers_count": 9,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -97,9 +121,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 21574,
+    "stargazers_count": 21627,
     "open_issues_count": 40,
-    "forks_count": 832
+    "forks_count": 838
   },
   {
     "full_name": "ilammy/lisp",
@@ -116,7 +140,7 @@
   {
     "full_name": "juliojimenez/clickhouse-cl",
     "stargazers_count": 4,
-    "open_issues_count": 35,
+    "open_issues_count": 36,
     "forks_count": 0
   },
   {
@@ -154,29 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "nptcl/npt",
-    "stargazers_count": 144,
-    "open_issues_count": 3,
-    "forks_count": 8
-  },
-  {
-    "full_name": "eyedouble/cl-json-web-tokens",
-    "stargazers_count": 5,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "dbmcclain/Lisp-Actors",
-    "stargazers_count": 60,
-    "open_issues_count": 2,
-    "forks_count": 8
-  },
-  {
-    "full_name": "szos/cl-advice",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
