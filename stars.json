@@ -1,21 +1,9 @@
 [
   {
-    "full_name": "theraphonics/cmn",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "theraphonics/clm",
-    "stargazers_count": 4,
-    "open_issues_count": 5,
-    "forks_count": 0
-  },
-  {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 579,
-    "open_issues_count": 11,
-    "forks_count": 18
+    "stargazers_count": 1020,
+    "open_issues_count": 10,
+    "forks_count": 28
   },
   {
     "full_name": "bohonghuang/cl-universal-tween-engine",
@@ -55,8 +43,8 @@
   },
   {
     "full_name": "VitoVan/calm",
-    "stargazers_count": 58,
-    "open_issues_count": 14,
+    "stargazers_count": 59,
+    "open_issues_count": 15,
     "forks_count": 2
   },
   {
@@ -92,7 +80,7 @@
   {
     "full_name": "cutls/TheDesk",
     "stargazers_count": 239,
-    "open_issues_count": 51,
+    "open_issues_count": 66,
     "forks_count": 28
   },
   {
@@ -134,7 +122,7 @@
   {
     "full_name": "hikettei/cl-waffe",
     "stargazers_count": 17,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 1
   },
   {
@@ -145,9 +133,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 21901,
-    "open_issues_count": 39,
-    "forks_count": 853
+    "stargazers_count": 21944,
+    "open_issues_count": 38,
+    "forks_count": 855
   },
   {
     "full_name": "ilammy/lisp",
@@ -178,5 +166,17 @@
     "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 0
+  },
+  {
+    "full_name": "borodust/alien-works",
+    "stargazers_count": 46,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ultralisp/ultralisp",
+    "stargazers_count": 197,
+    "open_issues_count": 42,
+    "forks_count": 10
   }
 ]
