@@ -1,9 +1,9 @@
 [
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1293,
-    "open_issues_count": 16,
-    "forks_count": 43
+    "stargazers_count": 1346,
+    "open_issues_count": 13,
+    "forks_count": 49
   },
   {
     "full_name": "bohonghuang/cl-universal-tween-engine",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "hikettei/cl-tqdm",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "marcoheisig/Petalisp",
-    "stargazers_count": 283,
+    "stargazers_count": 284,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "cutls/TheDesk",
-    "stargazers_count": 240,
-    "open_issues_count": 68,
-    "forks_count": 28
+    "stargazers_count": 242,
+    "open_issues_count": 69,
+    "forks_count": 29
   },
   {
     "full_name": "marcoheisig/common-lisp-tweaks",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "hikettei/cl-waffe",
-    "stargazers_count": 17,
+    "stargazers_count": 33,
     "open_issues_count": 11,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "jcguu95/cl-schedule",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 22040,
-    "open_issues_count": 37,
-    "forks_count": 863
+    "stargazers_count": 22127,
+    "open_issues_count": 36,
+    "forks_count": 865
   },
   {
     "full_name": "ilammy/lisp",
