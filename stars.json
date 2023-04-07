@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "mark-watson/openai",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "chebert/schemeish",
+    "stargazers_count": 9,
+    "open_issues_count": 5,
+    "forks_count": 1
+  },
+  {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 19077,
-    "open_issues_count": 117,
-    "forks_count": 1803
+    "stargazers_count": 23398,
+    "open_issues_count": 152,
+    "forks_count": 2355
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1374,
-    "open_issues_count": 15,
-    "forks_count": 50
+    "stargazers_count": 1379,
+    "open_issues_count": 14,
+    "forks_count": 51
   },
   {
     "full_name": "bohonghuang/cl-universal-tween-engine",
@@ -85,8 +97,8 @@
   },
   {
     "full_name": "cutls/TheDesk",
-    "stargazers_count": 243,
-    "open_issues_count": 69,
+    "stargazers_count": 244,
+    "open_issues_count": 70,
     "forks_count": 30
   },
   {
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 22234,
-    "open_issues_count": 34,
-    "forks_count": 875
+    "stargazers_count": 22308,
+    "open_issues_count": 36,
+    "forks_count": 878
   },
   {
     "full_name": "ilammy/lisp",
@@ -166,17 +178,5 @@
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "borodust/alien-works-delivery",
-    "stargazers_count": 30,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "borodust/alien-works",
-    "stargazers_count": 46,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
