@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "Gleefre/and-jni",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "diasbruno/cl-slugify",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "mark-watson/openai",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -13,15 +25,15 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 34630,
-    "open_issues_count": 259,
-    "forks_count": 3670
+    "stargazers_count": 35391,
+    "open_issues_count": 283,
+    "forks_count": 3760
   },
   {
     "full_name": "ytsaurus/ytsaurus",
     "stargazers_count": 1432,
-    "open_issues_count": 11,
-    "forks_count": 53
+    "open_issues_count": 16,
+    "forks_count": 52
   },
   {
     "full_name": "bohonghuang/cl-universal-tween-engine",
@@ -74,7 +86,7 @@
   {
     "full_name": "sionescu/sbcl-goodies",
     "stargazers_count": 21,
-    "open_issues_count": 0,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
@@ -91,14 +103,14 @@
   },
   {
     "full_name": "marcoheisig/Petalisp",
-    "stargazers_count": 288,
+    "stargazers_count": 289,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "cutls/TheDesk",
     "stargazers_count": 247,
-    "open_issues_count": 46,
+    "open_issues_count": 45,
     "forks_count": 30
   },
   {
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 22673,
-    "open_issues_count": 35,
-    "forks_count": 903
+    "stargazers_count": 22727,
+    "open_issues_count": 36,
+    "forks_count": 907
   },
   {
     "full_name": "ilammy/lisp",
@@ -166,17 +178,5 @@
     "stargazers_count": 39,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "juliojimenez/clickhouse-cl",
-    "stargazers_count": 5,
-    "open_issues_count": 33,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Shinmera/action-list",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
