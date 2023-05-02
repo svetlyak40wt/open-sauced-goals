@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "shamazmazum/cl-beads",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Gleefre/and-jni",
-    "stargazers_count": 4,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -25,13 +31,13 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 35391,
-    "open_issues_count": 283,
-    "forks_count": 3760
+    "stargazers_count": 36138,
+    "open_issues_count": 292,
+    "forks_count": 3856
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1432,
+    "stargazers_count": 1437,
     "open_issues_count": 16,
     "forks_count": 52
   },
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "VitoVan/calm",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 13,
     "forks_count": 2
   },
@@ -85,8 +91,8 @@
   },
   {
     "full_name": "sionescu/sbcl-goodies",
-    "stargazers_count": 21,
-    "open_issues_count": 3,
+    "stargazers_count": 20,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -109,8 +115,8 @@
   },
   {
     "full_name": "cutls/TheDesk",
-    "stargazers_count": 247,
-    "open_issues_count": 45,
+    "stargazers_count": 249,
+    "open_issues_count": 46,
     "forks_count": 30
   },
   {
@@ -153,7 +159,7 @@
     "full_name": "hikettei/cl-waffe",
     "stargazers_count": 38,
     "open_issues_count": 10,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "jcguu95/cl-schedule",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 22727,
+    "stargazers_count": 22800,
     "open_issues_count": 36,
-    "forks_count": 907
+    "forks_count": 910
   },
   {
     "full_name": "ilammy/lisp",
     "stargazers_count": 187,
     "open_issues_count": 1,
     "forks_count": 23
-  },
-  {
-    "full_name": "hemml/OMGlib",
-    "stargazers_count": 39,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
