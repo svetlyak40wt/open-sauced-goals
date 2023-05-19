@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "Shinmera/iclendar",
+    "stargazers_count": 9,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
+    "full_name": "vindarel/colisper",
+    "stargazers_count": 21,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "orthecreedence/carrier",
+    "stargazers_count": 37,
+    "open_issues_count": 5,
+    "forks_count": 7
+  },
+  {
     "full_name": "byulparan/cl-collider",
     "stargazers_count": 187,
     "open_issues_count": 2,
@@ -8,7 +26,7 @@
   {
     "full_name": "byulparan/websocket-demo",
     "stargazers_count": 26,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
@@ -43,7 +61,7 @@
   },
   {
     "full_name": "mark-watson/openai",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -55,13 +73,13 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 40707,
-    "open_issues_count": 326,
-    "forks_count": 4277
+    "stargazers_count": 41650,
+    "open_issues_count": 234,
+    "forks_count": 4382
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1448,
+    "stargazers_count": 1450,
     "open_issues_count": 18,
     "forks_count": 56
   },
@@ -133,7 +151,7 @@
   },
   {
     "full_name": "marcoheisig/Petalisp",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 1,
     "forks_count": 11
   },
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "roswell/mystic",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 2,
     "forks_count": 3
-  },
-  {
-    "full_name": "alejandrozf/cl-zombsole",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Wukix/LambdaLite",
-    "stargazers_count": 398,
-    "open_issues_count": 0,
-    "forks_count": 30
-  },
-  {
-    "full_name": "Shirakumo/keygen",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
