@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "galdor/tungsten",
+    "stargazers_count": 17,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Shinmera/iclendar",
     "stargazers_count": 9,
     "open_issues_count": 3,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "byulparan/cl-collider",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 2,
     "forks_count": 21
   },
@@ -73,13 +79,13 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 41650,
-    "open_issues_count": 234,
-    "forks_count": 4382
+    "stargazers_count": 42420,
+    "open_issues_count": 248,
+    "forks_count": 4476
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1450,
+    "stargazers_count": 1456,
     "open_issues_count": 18,
     "forks_count": 56
   },
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "koji-kojiro/cl-repl",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 12,
     "forks_count": 16
   },
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "cutls/TheDesk",
-    "stargazers_count": 252,
-    "open_issues_count": 47,
-    "forks_count": 30
+    "stargazers_count": 253,
+    "open_issues_count": 46,
+    "forks_count": 31
   },
   {
     "full_name": "marcoheisig/common-lisp-tweaks",
@@ -172,11 +178,5 @@
     "stargazers_count": 13,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "roswell/mystic",
-    "stargazers_count": 18,
-    "open_issues_count": 2,
-    "forks_count": 3
   }
 ]
