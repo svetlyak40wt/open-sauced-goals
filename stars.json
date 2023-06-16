@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "theraphonics/common-tones",
+    "stargazers_count": 10,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "galdor/tungsten",
     "stargazers_count": 17,
     "open_issues_count": 0,
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 46159,
-    "open_issues_count": 370,
-    "forks_count": 4907
+    "stargazers_count": 46561,
+    "open_issues_count": 378,
+    "forks_count": 4961
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1509,
-    "open_issues_count": 26,
-    "forks_count": 61
+    "stargazers_count": 1521,
+    "open_issues_count": 30,
+    "forks_count": 64
   },
   {
     "full_name": "bohonghuang/cl-universal-tween-engine",
@@ -121,14 +127,14 @@
   },
   {
     "full_name": "koji-kojiro/cl-repl",
-    "stargazers_count": 138,
+    "stargazers_count": 137,
     "open_issues_count": 12,
     "forks_count": 16
   },
   {
     "full_name": "VitoVan/calm",
-    "stargazers_count": 71,
-    "open_issues_count": 11,
+    "stargazers_count": 73,
+    "open_issues_count": 10,
     "forks_count": 2
   },
   {
@@ -140,7 +146,7 @@
   {
     "full_name": "sionescu/sbcl-goodies",
     "stargazers_count": 20,
-    "open_issues_count": 14,
+    "open_issues_count": 17,
     "forks_count": 1
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 32,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "bitspook/cl-ownpress",
-    "stargazers_count": 13,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
