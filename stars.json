@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "eshamster/watson",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "eshamster/try-wasm-with-cl",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "eshamster/proto-cl-hot-loads",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "KikyTokamuro/todolist-cl",
     "stargazers_count": 30,
     "open_issues_count": 0,
@@ -9,7 +27,7 @@
     "full_name": "digikar99/unboxables",
     "stargazers_count": 15,
     "open_issues_count": 1,
-    "forks_count": 1
+    "forks_count": 0
   },
   {
     "full_name": "melusina-org/cl-atelier",
@@ -103,15 +121,15 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 47352,
-    "open_issues_count": 387,
-    "forks_count": 5084
+    "stargazers_count": 47691,
+    "open_issues_count": 395,
+    "forks_count": 5171
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1522,
-    "open_issues_count": 30,
-    "forks_count": 65
+    "stargazers_count": 1526,
+    "open_issues_count": 31,
+    "forks_count": 67
   },
   {
     "full_name": "bohonghuang/cl-universal-tween-engine",
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "VitoVan/calm",
-    "stargazers_count": 75,
+    "stargazers_count": 78,
     "open_issues_count": 4,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "avodonosov/package-doc-dump",
     "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "sionescu/sbcl-goodies",
-    "stargazers_count": 20,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "oyvinht/cl-earley-parser",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "marcoheisig/Loopus",
-    "stargazers_count": 39,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
