@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "borodust/claw",
+    "stargazers_count": 22,
+    "open_issues_count": 8,
+    "forks_count": 3
+  },
+  {
     "full_name": "eshamster/watson",
     "stargazers_count": 11,
     "open_issues_count": 0,
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "byulparan/cl-collider",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 2,
     "forks_count": 21
   },
@@ -121,13 +127,13 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 47937,
-    "open_issues_count": 407,
-    "forks_count": 5205
+    "stargazers_count": 48234,
+    "open_issues_count": 418,
+    "forks_count": 5236
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1529,
+    "stargazers_count": 1534,
     "open_issues_count": 31,
     "forks_count": 67
   },
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "hikettei/cl-tqdm",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "VitoVan/calm",
-    "stargazers_count": 78,
-    "open_issues_count": 3,
+    "stargazers_count": 80,
+    "open_issues_count": 6,
     "forks_count": 3
-  },
-  {
-    "full_name": "avodonosov/package-doc-dump",
-    "stargazers_count": 2,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
