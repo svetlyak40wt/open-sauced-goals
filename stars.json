@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "juvirez/yandex-music-app",
+    "stargazers_count": 1403,
+    "open_issues_count": 37,
+    "forks_count": 94
+  },
+  {
+    "full_name": "pascalcombier/plain-common-lisp",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "borodust/claw",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 8,
     "forks_count": 3
   },
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "byulparan/cl-collider",
-    "stargazers_count": 190,
+    "stargazers_count": 189,
     "open_issues_count": 2,
     "forks_count": 21
   },
@@ -127,19 +139,19 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 48449,
-    "open_issues_count": 421,
-    "forks_count": 5276
+    "stargazers_count": 48716,
+    "open_issues_count": 430,
+    "forks_count": 5315
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1537,
-    "open_issues_count": 33,
-    "forks_count": 67
+    "stargazers_count": 1543,
+    "open_issues_count": 34,
+    "forks_count": 68
   },
   {
     "full_name": "bohonghuang/cl-universal-tween-engine",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "koji-kojiro/cl-repl",
-    "stargazers_count": 137,
-    "open_issues_count": 12,
-    "forks_count": 16
-  },
-  {
-    "full_name": "VitoVan/calm",
-    "stargazers_count": 80,
-    "open_issues_count": 6,
-    "forks_count": 3
   }
 ]
