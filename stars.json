@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "ralt/hermes",
+    "stargazers_count": 68,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1405,
+    "stargazers_count": 1406,
     "open_issues_count": 37,
     "forks_count": 94
   },
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "mark-watson/openai",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -139,14 +145,14 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 48961,
-    "open_issues_count": 434,
-    "forks_count": 5356
+    "stargazers_count": 49222,
+    "open_issues_count": 442,
+    "forks_count": 5386
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1553,
-    "open_issues_count": 37,
+    "stargazers_count": 1555,
+    "open_issues_count": 39,
     "forks_count": 69
   },
   {
@@ -157,8 +163,8 @@
   },
   {
     "full_name": "hikettei/cl-tqdm",
-    "stargazers_count": 9,
-    "open_issues_count": 1,
+    "stargazers_count": 11,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 43,
     "open_issues_count": 0,
     "forks_count": 9
-  },
-  {
-    "full_name": "theangelperalta/cl-objc",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
