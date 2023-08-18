@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "MatthewRock/cl-sandbox",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "digikar99/prettier-builtins",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1415,
+    "stargazers_count": 1418,
     "open_issues_count": 37,
     "forks_count": 94
   },
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "byulparan/cl-collider",
-    "stargazers_count": 191,
+    "stargazers_count": 193,
     "open_issues_count": 2,
     "forks_count": 21
   },
@@ -157,14 +163,14 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 50732,
-    "open_issues_count": 271,
-    "forks_count": 5567
+    "stargazers_count": 50878,
+    "open_issues_count": 238,
+    "forks_count": 5583
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1572,
-    "open_issues_count": 49,
+    "stargazers_count": 1576,
+    "open_issues_count": 50,
     "forks_count": 70
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "hikettei/cl-tqdm",
-    "stargazers_count": 11,
-    "open_issues_count": 2,
-    "forks_count": 0
   }
 ]
