@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "fukamachi/ragno",
+    "stargazers_count": 18,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "MatthewRock/cl-sandbox",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1418,
+    "stargazers_count": 1420,
     "open_issues_count": 37,
     "forks_count": 94
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 50878,
-    "open_issues_count": 238,
-    "forks_count": 5583
+    "stargazers_count": 51049,
+    "open_issues_count": 237,
+    "forks_count": 5607
   },
   {
     "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1576,
-    "open_issues_count": 50,
-    "forks_count": 70
-  },
-  {
-    "full_name": "bohonghuang/cl-universal-tween-engine",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "stargazers_count": 1577,
+    "open_issues_count": 48,
+    "forks_count": 71
   }
 ]
