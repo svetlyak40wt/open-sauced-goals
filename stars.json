@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "dlowe-net/Hello-gl",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "privet-kitty/wild-package-inferred-system",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "fukamachi/ragno",
     "stargazers_count": 18,
     "open_issues_count": 0,
@@ -31,7 +43,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1421,
+    "stargazers_count": 1424,
     "open_issues_count": 37,
     "forks_count": 93
   },
@@ -91,13 +103,13 @@
   },
   {
     "full_name": "galdor/tungsten",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Shinmera/iclendar",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 3,
     "forks_count": 2
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 9,
     "open_issues_count": 5,
     "forks_count": 1
-  },
-  {
-    "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 51384,
-    "open_issues_count": 244,
-    "forks_count": 5633
-  },
-  {
-    "full_name": "ytsaurus/ytsaurus",
-    "stargazers_count": 1580,
-    "open_issues_count": 49,
-    "forks_count": 71
   }
 ]
