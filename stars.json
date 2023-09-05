@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ploomber/debuglater",
+    "stargazers_count": 50,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
     "full_name": "dlowe-net/Hello-gl",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1424,
+    "stargazers_count": 1427,
     "open_issues_count": 37,
     "forks_count": 93
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "chebert/schemeish",
-    "stargazers_count": 9,
-    "open_issues_count": 5,
-    "forks_count": 1
   }
 ]
