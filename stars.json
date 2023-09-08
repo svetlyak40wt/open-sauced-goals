@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "jordan4ibanez/Vmacs",
+    "stargazers_count": 6,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "ploomber/debuglater",
     "stargazers_count": 50,
     "open_issues_count": 1,
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1427,
+    "stargazers_count": 1429,
     "open_issues_count": 37,
     "forks_count": 93
   },
@@ -170,12 +176,6 @@
   {
     "full_name": "diasbruno/cl-slugify",
     "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "mark-watson/openai",
-    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
   }
