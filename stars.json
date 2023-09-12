@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "musescore/MuseScore",
+    "stargazers_count": 10095,
+    "open_issues_count": 1906,
+    "forks_count": 2291
+  },
+  {
     "full_name": "jordan4ibanez/Vmacs",
     "stargazers_count": 6,
     "open_issues_count": 1,
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1429,
+    "stargazers_count": 1432,
     "open_issues_count": 37,
     "forks_count": 93
   },
@@ -134,7 +140,7 @@
   {
     "full_name": "orthecreedence/carrier",
     "stargazers_count": 37,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 7
   },
   {
@@ -170,12 +176,6 @@
   {
     "full_name": "Gleefre/and-jni",
     "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "diasbruno/cl-slugify",
-    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   }
