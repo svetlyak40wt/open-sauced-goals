@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "biruh/cl-htmx",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "tamurashingo/cl-batis",
+    "stargazers_count": 7,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10095,
-    "open_issues_count": 1906,
-    "forks_count": 2291
+    "stargazers_count": 10107,
+    "open_issues_count": 1909,
+    "forks_count": 2290
   },
   {
     "full_name": "jordan4ibanez/Vmacs",
@@ -61,8 +73,8 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1432,
-    "open_issues_count": 37,
+    "stargazers_count": 1436,
+    "open_issues_count": 38,
     "forks_count": 93
   },
   {
@@ -74,8 +86,8 @@
   {
     "full_name": "borodust/claw",
     "stargazers_count": 26,
-    "open_issues_count": 9,
-    "forks_count": 3
+    "open_issues_count": 10,
+    "forks_count": 4
   },
   {
     "full_name": "eshamster/watson",
@@ -166,17 +178,5 @@
     "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "shamazmazum/cl-beads",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Gleefre/and-jni",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
