@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "JolifantoBambla/vk",
+    "stargazers_count": 44,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
+    "full_name": "wegfawefgawefg/clisp-web-dsl",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "buresdv/Cork",
+    "stargazers_count": 978,
+    "open_issues_count": 25,
+    "forks_count": 54
+  },
+  {
     "full_name": "biruh/cl-htmx",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -13,19 +31,19 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10116,
-    "open_issues_count": 1936,
-    "forks_count": 2295
+    "stargazers_count": 10129,
+    "open_issues_count": 1939,
+    "forks_count": 2298
   },
   {
     "full_name": "jordan4ibanez/Vmacs",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "ploomber/debuglater",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -73,7 +91,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1436,
+    "stargazers_count": 1437,
     "open_issues_count": 38,
     "forks_count": 93
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 194,
     "open_issues_count": 2,
     "forks_count": 21
-  },
-  {
-    "full_name": "byulparan/websocket-demo",
-    "stargazers_count": 27,
-    "open_issues_count": 3,
-    "forks_count": 6
-  },
-  {
-    "full_name": "Gleefre/simple-repl-app",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "byulparan/cl-nextstep",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
