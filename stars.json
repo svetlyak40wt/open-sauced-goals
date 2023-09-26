@@ -1,7 +1,31 @@
 [
   {
+    "full_name": "linkpy/godot-ecl",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "borodust/bodge-godot",
+    "stargazers_count": 32,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "timothee-chauvin/ankilab",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "stumpwm/stumpwm",
+    "stargazers_count": 1826,
+    "open_issues_count": 100,
+    "forks_count": 263
+  },
+  {
     "full_name": "JolifantoBambla/vk",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 2,
     "forks_count": 5
   },
@@ -13,9 +37,9 @@
   },
   {
     "full_name": "buresdv/Cork",
-    "stargazers_count": 978,
-    "open_issues_count": 25,
-    "forks_count": 54
+    "stargazers_count": 983,
+    "open_issues_count": 26,
+    "forks_count": 57
   },
   {
     "full_name": "biruh/cl-htmx",
@@ -31,13 +55,13 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10129,
-    "open_issues_count": 1939,
-    "forks_count": 2298
+    "stargazers_count": 10141,
+    "open_issues_count": 1959,
+    "forks_count": 2301
   },
   {
     "full_name": "jordan4ibanez/Vmacs",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -91,7 +115,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1437,
+    "stargazers_count": 1439,
     "open_issues_count": 38,
     "forks_count": 93
   },
@@ -127,7 +151,7 @@
   },
   {
     "full_name": "KikyTokamuro/todolist-cl",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -139,7 +163,7 @@
   },
   {
     "full_name": "melusina-org/cl-atelier",
-    "stargazers_count": 8,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -154,29 +178,5 @@
     "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "Shinmera/iclendar",
-    "stargazers_count": 12,
-    "open_issues_count": 3,
-    "forks_count": 2
-  },
-  {
-    "full_name": "vindarel/colisper",
-    "stargazers_count": 21,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "orthecreedence/carrier",
-    "stargazers_count": 37,
-    "open_issues_count": 6,
-    "forks_count": 7
-  },
-  {
-    "full_name": "byulparan/cl-collider",
-    "stargazers_count": 194,
-    "open_issues_count": 2,
-    "forks_count": 21
   }
 ]
