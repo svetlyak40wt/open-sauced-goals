@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "kirillsulim/xy2xy",
+    "stargazers_count": 139,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
     "full_name": "linkpy/godot-ecl",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "stumpwm/stumpwm",
-    "stargazers_count": 1827,
+    "stargazers_count": 1829,
     "open_issues_count": 97,
-    "forks_count": 262
+    "forks_count": 263
   },
   {
     "full_name": "JolifantoBambla/vk",
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "buresdv/Cork",
-    "stargazers_count": 989,
-    "open_issues_count": 27,
+    "stargazers_count": 996,
+    "open_issues_count": 26,
     "forks_count": 58
   },
   {
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10149,
-    "open_issues_count": 1958,
-    "forks_count": 2303
+    "stargazers_count": 10158,
+    "open_issues_count": 1955,
+    "forks_count": 2306
   },
   {
     "full_name": "jordan4ibanez/Vmacs",
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1441,
+    "stargazers_count": 1442,
     "open_issues_count": 39,
     "forks_count": 94
   },
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "borodust/claw",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 9,
     "forks_count": 4
   },
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "digikar99/unboxables",
-    "stargazers_count": 15,
+    "stargazers_count": 17,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -171,12 +177,6 @@
     "full_name": "theraphonics/common-tones",
     "stargazers_count": 10,
     "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "galdor/tungsten",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
     "forks_count": 0
   }
 ]
