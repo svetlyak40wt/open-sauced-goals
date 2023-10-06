@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "jeko2000/tiny-routes-realworld-example-app",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "kirillsulim/xy2xy",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "stumpwm/stumpwm",
-    "stargazers_count": 1829,
+    "stargazers_count": 1830,
     "open_issues_count": 97,
     "forks_count": 263
   },
@@ -43,8 +49,8 @@
   },
   {
     "full_name": "buresdv/Cork",
-    "stargazers_count": 996,
-    "open_issues_count": 26,
+    "stargazers_count": 1001,
+    "open_issues_count": 28,
     "forks_count": 58
   },
   {
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10158,
-    "open_issues_count": 1955,
-    "forks_count": 2306
+    "stargazers_count": 10168,
+    "open_issues_count": 1965,
+    "forks_count": 2308
   },
   {
     "full_name": "jordan4ibanez/Vmacs",
@@ -121,8 +127,8 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1442,
-    "open_issues_count": 39,
+    "stargazers_count": 1443,
+    "open_issues_count": 40,
     "forks_count": 94
   },
   {
@@ -171,12 +177,6 @@
     "full_name": "melusina-org/cl-atelier",
     "stargazers_count": 7,
     "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "theraphonics/common-tones",
-    "stargazers_count": 10,
-    "open_issues_count": 1,
     "forks_count": 0
   }
 ]
