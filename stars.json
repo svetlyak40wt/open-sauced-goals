@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "cosmos72/stmx",
+    "stargazers_count": 235,
+    "open_issues_count": 6,
+    "forks_count": 13
+  },
+  {
     "full_name": "kat-co/openapi2cl",
     "stargazers_count": 15,
     "open_issues_count": 4,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "kirillsulim/xy2xy",
-    "stargazers_count": 140,
+    "stargazers_count": 141,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "buresdv/Cork",
-    "stargazers_count": 1012,
-    "open_issues_count": 35,
-    "forks_count": 62
+    "stargazers_count": 1016,
+    "open_issues_count": 34,
+    "forks_count": 63
   },
   {
     "full_name": "biruh/cl-htmx",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10173,
-    "open_issues_count": 1970,
-    "forks_count": 2310
+    "stargazers_count": 10185,
+    "open_issues_count": 1985,
+    "forks_count": 2312
   },
   {
     "full_name": "jordan4ibanez/Vmacs",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1446,
+    "stargazers_count": 1447,
     "open_issues_count": 40,
     "forks_count": 94
   },
@@ -170,12 +176,6 @@
   {
     "full_name": "eshamster/proto-cl-hot-loads",
     "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "KikyTokamuro/todolist-cl",
-    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 1
   }
