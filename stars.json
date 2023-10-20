@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "Shinmera/definitions",
+    "stargazers_count": 14,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "gassechen/cl-openid-connect",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "40ants/therepl",
+    "stargazers_count": 52,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "elderica/ulid",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "stylewarning/big-string",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -43,7 +67,7 @@
   },
   {
     "full_name": "jeko2000/tiny-routes-realworld-example-app",
-    "stargazers_count": 9,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -73,7 +97,7 @@
   },
   {
     "full_name": "stumpwm/stumpwm",
-    "stargazers_count": 1830,
+    "stargazers_count": 1832,
     "open_issues_count": 94,
     "forks_count": 263
   },
@@ -91,7 +115,7 @@
   },
   {
     "full_name": "buresdv/Cork",
-    "stargazers_count": 1036,
+    "stargazers_count": 1042,
     "open_issues_count": 34,
     "forks_count": 64
   },
@@ -103,15 +127,15 @@
   },
   {
     "full_name": "tamurashingo/cl-batis",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10203,
-    "open_issues_count": 1991,
-    "forks_count": 2315
+    "stargazers_count": 10211,
+    "open_issues_count": 2004,
+    "forks_count": 2321
   },
   {
     "full_name": "jordan4ibanez/Vmacs",
@@ -152,30 +176,6 @@
   {
     "full_name": "digikar99/prettier-builtins",
     "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "sbenitezb/sigslot",
-    "stargazers_count": 7,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ralt/hermes",
-    "stargazers_count": 74,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "juvirez/yandex-music-app",
-    "stargazers_count": 1447,
-    "open_issues_count": 41,
-    "forks_count": 94
-  },
-  {
-    "full_name": "pascalcombier/plain-common-lisp",
-    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 0
   }
