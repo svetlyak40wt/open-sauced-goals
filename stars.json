@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "varjagg/deptree",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "oliverdelancey/retwin",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "oliverdelancey/charmander",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Shinmera/definitions",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -99,7 +117,7 @@
     "full_name": "stumpwm/stumpwm",
     "stargazers_count": 1832,
     "open_issues_count": 94,
-    "forks_count": 263
+    "forks_count": 264
   },
   {
     "full_name": "JolifantoBambla/vk",
@@ -115,9 +133,9 @@
   },
   {
     "full_name": "buresdv/Cork",
-    "stargazers_count": 1042,
-    "open_issues_count": 34,
-    "forks_count": 64
+    "stargazers_count": 1043,
+    "open_issues_count": 35,
+    "forks_count": 63
   },
   {
     "full_name": "biruh/cl-htmx",
@@ -133,9 +151,9 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10211,
-    "open_issues_count": 2004,
-    "forks_count": 2321
+    "stargazers_count": 10235,
+    "open_issues_count": 1997,
+    "forks_count": 2327
   },
   {
     "full_name": "jordan4ibanez/Vmacs",
@@ -158,24 +176,6 @@
   {
     "full_name": "privet-kitty/wild-package-inferred-system",
     "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "fukamachi/ragno",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "MatthewRock/cl-sandbox",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "digikar99/prettier-builtins",
-    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   }
