@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "roswell/roswell2",
+    "stargazers_count": 14,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "varjagg/deptree",
-    "stargazers_count": 12,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -115,8 +121,8 @@
   },
   {
     "full_name": "stumpwm/stumpwm",
-    "stargazers_count": 1832,
-    "open_issues_count": 94,
+    "stargazers_count": 1835,
+    "open_issues_count": 95,
     "forks_count": 264
   },
   {
@@ -133,8 +139,8 @@
   },
   {
     "full_name": "buresdv/Cork",
-    "stargazers_count": 1043,
-    "open_issues_count": 35,
+    "stargazers_count": 1051,
+    "open_issues_count": 34,
     "forks_count": 63
   },
   {
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10235,
-    "open_issues_count": 1997,
-    "forks_count": 2327
+    "stargazers_count": 10267,
+    "open_issues_count": 2007,
+    "forks_count": 2331
   },
   {
     "full_name": "jordan4ibanez/Vmacs",
@@ -170,12 +176,6 @@
   {
     "full_name": "dlowe-net/Hello-gl",
     "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "privet-kitty/wild-package-inferred-system",
-    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
   }
