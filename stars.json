@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "vinn2010/cl-stackexchange",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "jessymilare/storable-functions",
     "stargazers_count": 16,
     "open_issues_count": 0,
@@ -146,7 +152,7 @@
   {
     "full_name": "stumpwm/stumpwm",
     "stargazers_count": 1844,
-    "open_issues_count": 96,
+    "open_issues_count": 98,
     "forks_count": 266
   },
   {
@@ -163,8 +169,8 @@
   },
   {
     "full_name": "buresdv/Cork",
-    "stargazers_count": 1101,
-    "open_issues_count": 33,
+    "stargazers_count": 1118,
+    "open_issues_count": 34,
     "forks_count": 66
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "tamurashingo/cl-batis",
-    "stargazers_count": 8,
-    "open_issues_count": 2,
-    "forks_count": 2
   }
 ]
