@@ -37,7 +37,7 @@
   },
   {
     "full_name": "Hectarea1996/clith",
-    "stargazers_count": 3,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -50,12 +50,6 @@
   {
     "full_name": "varjagg/deptree",
     "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "oliverdelancey/retwin",
-    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -127,7 +121,7 @@
   },
   {
     "full_name": "kat-co/cl-apache-arrow",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 3,
     "forks_count": 2
   },
@@ -178,5 +172,11 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
+  },
+  {
+    "full_name": "buresdv/Cork",
+    "stargazers_count": 1204,
+    "open_issues_count": 37,
+    "forks_count": 65
   }
 ]
