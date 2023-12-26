@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "vindarel/cl-str",
+    "stargazers_count": 277,
+    "open_issues_count": 9,
+    "forks_count": 35
+  },
+  {
     "full_name": "Junker/stumpwm-rofi",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "joshcho/vivace-graph-v3",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "stumpwm/stumpwm",
-    "stargazers_count": 1848,
-    "open_issues_count": 104,
-    "forks_count": 265
+    "stargazers_count": 1849,
+    "open_issues_count": 84,
+    "forks_count": 266
   },
   {
     "full_name": "JolifantoBambla/vk",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "buresdv/Cork",
-    "stargazers_count": 1259,
-    "open_issues_count": 37,
-    "forks_count": 69
   }
 ]
