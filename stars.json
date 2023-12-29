@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "SahilKang/cl-avro",
+    "stargazers_count": 12,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
     "full_name": "vindarel/cl-str",
-    "stargazers_count": 277,
+    "stargazers_count": 278,
     "open_issues_count": 9,
     "forks_count": 35
   },
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "stumpwm/stumpwm",
-    "stargazers_count": 1849,
+    "stargazers_count": 1850,
     "open_issues_count": 84,
     "forks_count": 266
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 46,
     "open_issues_count": 2,
     "forks_count": 5
-  },
-  {
-    "full_name": "wegfawefgawefg/clisp-web-dsl",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
