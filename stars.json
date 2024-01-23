@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Shinmera/random-state",
+    "stargazers_count": 23,
+    "open_issues_count": 4,
+    "forks_count": 9
+  },
+  {
     "full_name": "SahilKang/cl-avro",
     "stargazers_count": 13,
     "open_issues_count": 1,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "vindarel/cl-str",
-    "stargazers_count": 287,
+    "stargazers_count": 289,
     "open_issues_count": 10,
     "forks_count": 35
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "stumpwm/stumpwm",
-    "stargazers_count": 1850,
+    "stargazers_count": 1852,
     "open_issues_count": 86,
     "forks_count": 267
-  },
-  {
-    "full_name": "JolifantoBambla/vk",
-    "stargazers_count": 46,
-    "open_issues_count": 2,
-    "forks_count": 5
   }
 ]
