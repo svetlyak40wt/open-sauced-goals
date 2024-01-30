@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "iamFIREcracker/cg",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "VyacheslavMik/open-crm",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "compufox/with-user-abort",
+    "stargazers_count": 19,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Shinmera/random-state",
     "stargazers_count": 24,
     "open_issues_count": 4,
@@ -49,7 +67,7 @@
   },
   {
     "full_name": "metawilm/cl-python",
-    "stargazers_count": 363,
+    "stargazers_count": 364,
     "open_issues_count": 2,
     "forks_count": 36
   },
@@ -67,7 +85,7 @@
   },
   {
     "full_name": "varjagg/deptree",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "borodust/bodge-godot",
-    "stargazers_count": 33,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "timothee-chauvin/ankilab",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "stumpwm/stumpwm",
-    "stargazers_count": 1852,
-    "open_issues_count": 87,
-    "forks_count": 267
   }
 ]
