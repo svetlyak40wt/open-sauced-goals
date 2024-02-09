@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "aplakhov/notq",
+    "stargazers_count": 4,
+    "open_issues_count": 4,
+    "forks_count": 1
+  },
+  {
     "full_name": "iamFIREcracker/cg",
     "stargazers_count": 14,
     "open_issues_count": 0,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "Shinmera/random-state",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 4,
     "forks_count": 9
   },
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "vindarel/cl-str",
-    "stargazers_count": 292,
+    "stargazers_count": 293,
     "open_issues_count": 11,
     "forks_count": 35
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "kirillsulim/xy2xy",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 0,
     "forks_count": 11
-  },
-  {
-    "full_name": "linkpy/godot-ecl",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
