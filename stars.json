@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "MarceColl/chobun",
+    "stargazers_count": 5,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "aplakhov/notq",
     "stargazers_count": 7,
     "open_issues_count": 3,
@@ -172,11 +178,5 @@
     "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "kirillsulim/xy2xy",
-    "stargazers_count": 145,
-    "open_issues_count": 0,
-    "forks_count": 11
   }
 ]
