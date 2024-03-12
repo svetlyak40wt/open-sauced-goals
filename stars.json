@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "MarceColl/rekishi",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "MarceColl/chobun",
     "stargazers_count": 5,
     "open_issues_count": 1,
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "kat-co/cl-apache-arrow",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 2,
     "forks_count": 1
-  },
-  {
-    "full_name": "jeko2000/tiny-routes-realworld-example-app",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
