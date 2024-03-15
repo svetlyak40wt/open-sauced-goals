@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "moneylobster/cl-text-plot",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "MarceColl/rekishi",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 15,
     "open_issues_count": 4,
     "forks_count": 5
-  },
-  {
-    "full_name": "kat-co/cl-apache-arrow",
-    "stargazers_count": 16,
-    "open_issues_count": 2,
-    "forks_count": 1
   }
 ]
