@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "skyizwhite/piccolo",
+    "stargazers_count": 16,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
     "full_name": "moneylobster/cl-text-plot",
     "stargazers_count": 6,
     "open_issues_count": 1,
@@ -93,7 +99,7 @@
     "full_name": "metawilm/cl-python",
     "stargazers_count": 364,
     "open_issues_count": 2,
-    "forks_count": 36
+    "forks_count": 34
   },
   {
     "full_name": "Hectarea1996/clith",
@@ -172,11 +178,5 @@
     "stargazers_count": 237,
     "open_issues_count": 6,
     "forks_count": 14
-  },
-  {
-    "full_name": "kat-co/openapi2cl",
-    "stargazers_count": 15,
-    "open_issues_count": 4,
-    "forks_count": 5
   }
 ]
