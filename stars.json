@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "awolven/cl-gpt",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "skyizwhite/piccolo",
     "stargazers_count": 16,
     "open_issues_count": 4,
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "Shinmera/definitions",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "cosmos72/stmx",
-    "stargazers_count": 237,
-    "open_issues_count": 6,
-    "forks_count": 14
   }
 ]
