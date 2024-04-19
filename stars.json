@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "bohonghuang/cliter",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "nlamirault/climc",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 2,
     "forks_count": 2
   },
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "Shinmera/definitions",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 14,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "ivan4th/cl-mqtt",
-    "stargazers_count": 18,
-    "open_issues_count": 3,
-    "forks_count": 2
   }
 ]
