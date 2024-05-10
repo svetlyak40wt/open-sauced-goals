@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "tani/papyrus",
+    "stargazers_count": 39,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
     "full_name": "bohonghuang/cliter",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "metawilm/cl-python",
-    "stargazers_count": 364,
+    "stargazers_count": 366,
     "open_issues_count": 2,
     "forks_count": 34
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "jeko2000/tiny-routes",
-    "stargazers_count": 14,
-    "open_issues_count": 1,
-    "forks_count": 3
   }
 ]
