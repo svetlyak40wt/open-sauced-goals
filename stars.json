@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "susam/emacs4cl",
+    "stargazers_count": 364,
+    "open_issues_count": 1,
+    "forks_count": 20
+  },
+  {
+    "full_name": "pyramidi0n/crystal",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "pyramidi0n/decanter",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "tani/papyrus",
     "stargazers_count": 41,
     "open_issues_count": 1,
@@ -158,24 +176,6 @@
   {
     "full_name": "gassechen/cl-openid-connect",
     "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "40ants/therepl",
-    "stargazers_count": 51,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "elderica/ulid",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "stylewarning/big-string",
-    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   }
