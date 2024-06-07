@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "garlic0x1/fusillade",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "susam/emacs4cl",
-    "stargazers_count": 364,
+    "stargazers_count": 365,
     "open_issues_count": 1,
     "forks_count": 20
   },
   {
     "full_name": "pyramidi0n/crystal",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 18,
     "open_issues_count": 2,
     "forks_count": 1
-  },
-  {
-    "full_name": "gassechen/cl-openid-connect",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
