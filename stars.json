@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "alex-gutev/generic-cl",
+    "stargazers_count": 139,
+    "open_issues_count": 1,
+    "forks_count": 7
+  },
+  {
     "full_name": "Islam0mar/cl-cxx",
     "stargazers_count": 32,
     "open_issues_count": 2,
@@ -68,7 +74,7 @@
   {
     "full_name": "moneylobster/cl-text-plot",
     "stargazers_count": 8,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "metawilm/cl-python",
-    "stargazers_count": 366,
+    "stargazers_count": 367,
     "open_issues_count": 2,
     "forks_count": 34
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "roswell/roswell2",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "varjagg/deptree",
-    "stargazers_count": 25,
-    "open_issues_count": 0,
     "forks_count": 0
   }
 ]
