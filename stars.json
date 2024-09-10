@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "takagi/lake",
+    "stargazers_count": 88,
+    "open_issues_count": 18,
+    "forks_count": 10
+  },
+  {
+    "full_name": "pg-sharding/spqr",
+    "stargazers_count": 878,
+    "open_issues_count": 19,
+    "forks_count": 43
+  },
+  {
     "full_name": "alex-gutev/generic-cl",
     "stargazers_count": 140,
     "open_issues_count": 1,
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "susam/emacs4cl",
-    "stargazers_count": 372,
+    "stargazers_count": 373,
     "open_issues_count": 1,
     "forks_count": 21
   },
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "compufox/with-user-abort",
-    "stargazers_count": 20,
+    "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 367,
     "open_issues_count": 2,
     "forks_count": 34
-  },
-  {
-    "full_name": "HectareaGalbis/clith",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "roswell/roswell2",
-    "stargazers_count": 19,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
