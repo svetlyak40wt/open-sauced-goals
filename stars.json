@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "varjagg/brake",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "takagi/lake",
-    "stargazers_count": 88,
+    "stargazers_count": 89,
     "open_issues_count": 18,
     "forks_count": 10
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 888,
-    "open_issues_count": 15,
+    "stargazers_count": 890,
+    "open_issues_count": 11,
     "forks_count": 43
   },
   {
@@ -39,7 +45,7 @@
     "full_name": "susam/emacs4cl",
     "stargazers_count": 374,
     "open_issues_count": 1,
-    "forks_count": 21
+    "forks_count": 23
   },
   {
     "full_name": "pyramidi0n/crystal",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "vindarel/cl-str",
-    "stargazers_count": 305,
+    "stargazers_count": 307,
     "open_issues_count": 13,
     "forks_count": 37
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "metawilm/cl-python",
-    "stargazers_count": 367,
-    "open_issues_count": 2,
-    "forks_count": 34
   }
 ]
