@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "KeenS/zenekindarl",
+    "stargazers_count": 32,
+    "open_issues_count": 9,
+    "forks_count": 7
+  },
+  {
+    "full_name": "marcoheisig/lang",
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "varjagg/brake",
     "stargazers_count": 10,
     "open_issues_count": 0,
@@ -13,7 +25,7 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 891,
+    "stargazers_count": 894,
     "open_issues_count": 11,
     "forks_count": 43
   },
@@ -43,7 +55,7 @@
   },
   {
     "full_name": "susam/emacs4cl",
-    "stargazers_count": 376,
+    "stargazers_count": 377,
     "open_issues_count": 1,
     "forks_count": 23
   },
@@ -61,7 +73,7 @@
   },
   {
     "full_name": "tani/papyrus",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "vindarel/cl-str",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 13,
     "forks_count": 37
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "jessymilare/storable-functions",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "joshcho/vivace-graph-v3",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 3
   }
 ]
