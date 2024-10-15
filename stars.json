@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "aartaka/nyxt-config",
+    "stargazers_count": 113,
+    "open_issues_count": 1,
+    "forks_count": 14
+  },
+  {
+    "full_name": "the-flx/cl-flx",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "prxq2/clbleepblop",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Enerccio/SLT",
     "stargazers_count": 197,
     "open_issues_count": 5,
@@ -43,9 +61,9 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 901,
+    "stargazers_count": 902,
     "open_issues_count": 11,
-    "forks_count": 45
+    "forks_count": 44
   },
   {
     "full_name": "alex-gutev/generic-cl",
@@ -160,23 +178,5 @@
     "stargazers_count": 22,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "Shinmera/random-state",
-    "stargazers_count": 26,
-    "open_issues_count": 2,
-    "forks_count": 9
-  },
-  {
-    "full_name": "SahilKang/cl-avro",
-    "stargazers_count": 13,
-    "open_issues_count": 1,
-    "forks_count": 2
-  },
-  {
-    "full_name": "vindarel/cl-str",
-    "stargazers_count": 309,
-    "open_issues_count": 13,
-    "forks_count": 37
   }
 ]
