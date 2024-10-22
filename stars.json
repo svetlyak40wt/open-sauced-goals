@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "mdbergmann/cl-tbnl-gserver-tmgr",
+    "stargazers_count": 22,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "aartaka/nyxt-config",
     "stargazers_count": 113,
     "open_issues_count": 1,
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "jakelazaroff/activitypub-starter-kit",
-    "stargazers_count": 89,
+    "stargazers_count": 90,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "varjagg/brake",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -61,13 +67,13 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 905,
+    "stargazers_count": 906,
     "open_issues_count": 11,
     "forks_count": 45
   },
   {
     "full_name": "alex-gutev/generic-cl",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "susam/emacs4cl",
-    "stargazers_count": 378,
+    "stargazers_count": 379,
     "open_issues_count": 1,
     "forks_count": 23
   },
@@ -134,7 +140,7 @@
   {
     "full_name": "skyizwhite/hsx",
     "stargazers_count": 17,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "compufox/with-user-abort",
-    "stargazers_count": 22,
-    "open_issues_count": 1,
-    "forks_count": 1
   }
 ]
