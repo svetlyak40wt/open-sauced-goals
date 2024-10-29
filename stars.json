@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "Junker/mobiledetect",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Junker/random-ua",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "mdbergmann/cl-tbnl-gserver-tmgr",
     "stargazers_count": 22,
     "open_issues_count": 1,
@@ -37,7 +49,7 @@
   },
   {
     "full_name": "jakelazaroff/activitypub-starter-kit",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 909,
+    "stargazers_count": 911,
     "open_issues_count": 10,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "alex-gutev/generic-cl",
@@ -166,17 +178,5 @@
     "stargazers_count": 7,
     "open_issues_count": 3,
     "forks_count": 2
-  },
-  {
-    "full_name": "iamFIREcracker/cg",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "VyacheslavMik/open-crm",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
