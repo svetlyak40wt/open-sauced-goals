@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "stepan-mitkin/drakon_editor",
+    "stargazers_count": 356,
+    "open_issues_count": 42,
+    "forks_count": 59
+  },
+  {
     "full_name": "Junker/mobiledetect",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "marcoheisig/lang",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -79,8 +85,8 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 926,
-    "open_issues_count": 10,
+    "stargazers_count": 929,
+    "open_issues_count": 13,
     "forks_count": 46
   },
   {
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "tani/papyrus",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 7,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "aplakhov/notq",
-    "stargazers_count": 7,
-    "open_issues_count": 3,
-    "forks_count": 2
   }
 ]
