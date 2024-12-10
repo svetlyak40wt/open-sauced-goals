@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "garlic0x1/rope",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "shamazmazum/similar-images",
-    "stargazers_count": 13,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "stepan-mitkin/drakon_editor",
-    "stargazers_count": 359,
+    "stargazers_count": 360,
     "open_issues_count": 42,
     "forks_count": 60
   },
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "marcoheisig/lang",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 938,
+    "stargazers_count": 942,
     "open_issues_count": 19,
     "forks_count": 48
   },
@@ -170,12 +176,6 @@
   {
     "full_name": "moneylobster/cl-text-plot",
     "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "MarceColl/rekishi",
-    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   }
