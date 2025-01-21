@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "X4J14/exo",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "garlic0x1/rope",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -56,7 +62,7 @@
   {
     "full_name": "Enerccio/SLT",
     "stargazers_count": 201,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 12
   },
   {
@@ -97,8 +103,8 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 963,
-    "open_issues_count": 21,
+    "stargazers_count": 965,
+    "open_issues_count": 22,
     "forks_count": 48
   },
   {
@@ -170,12 +176,6 @@
   {
     "full_name": "skyizwhite/hsx",
     "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "moneylobster/cl-text-plot",
-    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   }
