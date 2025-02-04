@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "apr3vau/lw-plugins",
+    "stargazers_count": 25,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "X4J14/exo",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "garlic0x1/rope",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -21,7 +27,7 @@
     "full_name": "stepan-mitkin/drakon_editor",
     "stargazers_count": 364,
     "open_issues_count": 42,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "Junker/mobiledetect",
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "mdbergmann/cl-tbnl-gserver-tmgr",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "marcoheisig/lang",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 969,
+    "stargazers_count": 974,
     "open_issues_count": 26,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "alex-gutev/generic-cl",
@@ -135,7 +141,7 @@
     "full_name": "susam/emacs4cl",
     "stargazers_count": 384,
     "open_issues_count": 1,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "pyramidi0n/crystal",
@@ -170,12 +176,6 @@
   {
     "full_name": "awolven/cl-gpt",
     "stargazers_count": 11,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "skyizwhite/hsx",
-    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 0
   }
