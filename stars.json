@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "anarchodin/trivial-utf-16",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "apr3vau/lw-plugins",
     "stargazers_count": 26,
     "open_issues_count": 0,
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "aartaka/nyxt-config",
-    "stargazers_count": 113,
+    "stargazers_count": 112,
     "open_issues_count": 1,
     "forks_count": 14
   },
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "Enerccio/SLT",
-    "stargazers_count": 201,
+    "stargazers_count": 202,
     "open_issues_count": 6,
     "forks_count": 12
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "marcoheisig/lang",
-    "stargazers_count": 36,
+    "stargazers_count": 35,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -103,14 +109,14 @@
   },
   {
     "full_name": "takagi/lake",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 17,
     "forks_count": 10
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 1005,
-    "open_issues_count": 22,
+    "stargazers_count": 1006,
+    "open_issues_count": 21,
     "forks_count": 49
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 12,
     "open_issues_count": 2,
     "forks_count": 2
-  },
-  {
-    "full_name": "awolven/cl-gpt",
-    "stargazers_count": 11,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
