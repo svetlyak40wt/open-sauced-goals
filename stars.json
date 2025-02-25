@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "moneylobster/cl-autocorrect",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "anarchodin/trivial-utf-16",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "stepan-mitkin/drakon_editor",
-    "stargazers_count": 364,
+    "stargazers_count": 363,
     "open_issues_count": 42,
     "forks_count": 61
   },
@@ -49,13 +55,13 @@
   },
   {
     "full_name": "mdbergmann/cl-tbnl-gserver-tmgr",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "aartaka/nyxt-config",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 1,
     "forks_count": 14
   },
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "varjagg/brake",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 1013,
+    "stargazers_count": 1019,
     "open_issues_count": 25,
     "forks_count": 49
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "nlamirault/climc",
-    "stargazers_count": 12,
-    "open_issues_count": 2,
-    "forks_count": 2
   }
 ]
