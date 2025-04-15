@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "tdrhq/slite",
+    "stargazers_count": 55,
+    "open_issues_count": 4,
+    "forks_count": 4
+  },
+  {
     "full_name": "moneylobster/cl-autocorrect",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "garlic0x1/rope",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "stepan-mitkin/drakon_editor",
-    "stargazers_count": 365,
-    "open_issues_count": 42,
-    "forks_count": 61
+    "stargazers_count": 366,
+    "open_issues_count": 43,
+    "forks_count": 62
   },
   {
     "full_name": "Junker/mobiledetect",
@@ -121,13 +127,13 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 1091,
-    "open_issues_count": 30,
+    "stargazers_count": 1094,
+    "open_issues_count": 31,
     "forks_count": 51
   },
   {
     "full_name": "alex-gutev/generic-cl",
-    "stargazers_count": 150,
+    "stargazers_count": 151,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 50,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "bohonghuang/cliter",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
