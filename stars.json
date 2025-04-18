@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "sebastiancarlos/cl-yasboi",
+    "stargazers_count": 26,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "tdrhq/slite",
     "stargazers_count": 55,
     "open_issues_count": 4,
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "stepan-mitkin/drakon_editor",
-    "stargazers_count": 366,
+    "stargazers_count": 367,
     "open_issues_count": 43,
     "forks_count": 62
   },
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 1094,
+    "stargazers_count": 1096,
     "open_issues_count": 31,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "alex-gutev/generic-cl",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "tani/papyrus",
-    "stargazers_count": 50,
-    "open_issues_count": 1,
-    "forks_count": 3
   }
 ]
