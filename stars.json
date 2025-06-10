@@ -2,7 +2,7 @@
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
     "stargazers_count": 9,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 3
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "garlic0x1/rope",
-    "stargazers_count": 9,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 1147,
+    "stargazers_count": 1152,
     "open_issues_count": 42,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "alex-gutev/generic-cl",
@@ -177,6 +177,6 @@
     "full_name": "susam/emacs4cl",
     "stargazers_count": 387,
     "open_issues_count": 2,
-    "forks_count": 27
+    "forks_count": 28
   }
 ]
