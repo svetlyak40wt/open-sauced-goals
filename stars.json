@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Beingpax/VoiceInk",
+    "stargazers_count": 843,
+    "open_issues_count": 64,
+    "forks_count": 93
+  },
+  {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
     "stargazers_count": 9,
     "open_issues_count": 4,
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "stepan-mitkin/drakon_editor",
-    "stargazers_count": 369,
+    "stargazers_count": 370,
     "open_issues_count": 44,
     "forks_count": 62
   },
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "Enerccio/SLT",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 7,
     "forks_count": 14
   },
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 1153,
+    "stargazers_count": 1155,
     "open_issues_count": 44,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "alex-gutev/generic-cl",
@@ -172,11 +178,5 @@
     "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "susam/emacs4cl",
-    "stargazers_count": 387,
-    "open_issues_count": 2,
-    "forks_count": 28
   }
 ]
