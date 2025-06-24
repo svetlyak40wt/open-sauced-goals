@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 869,
-    "open_issues_count": 62,
-    "forks_count": 93
+    "stargazers_count": 882,
+    "open_issues_count": 66,
+    "forks_count": 94
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "tdrhq/slite",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 4,
     "forks_count": 4
   },
@@ -37,15 +37,9 @@
   },
   {
     "full_name": "anarchodin/trivial-utf-16",
-    "stargazers_count": 4,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "apr3vau/lw-plugins",
-    "stargazers_count": 29,
-    "open_issues_count": 0,
-    "forks_count": 1
   },
   {
     "full_name": "X4J14/exo",
@@ -91,7 +85,7 @@
   },
   {
     "full_name": "aartaka/nyxt-config",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 1,
     "forks_count": 14
   },
@@ -151,8 +145,8 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 1158,
-    "open_issues_count": 44,
+    "stargazers_count": 1160,
+    "open_issues_count": 39,
     "forks_count": 57
   },
   {
@@ -178,5 +172,11 @@
     "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 1
+  },
+  {
+    "full_name": "susam/emacs4cl",
+    "stargazers_count": 387,
+    "open_issues_count": 2,
+    "forks_count": 28
   }
 ]
