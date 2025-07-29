@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "verzhak/pycon2025",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "dtenny/cl-sse",
     "stargazers_count": 19,
     "open_issues_count": 0,
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 1185,
-    "open_issues_count": 97,
-    "forks_count": 147
+    "stargazers_count": 1219,
+    "open_issues_count": 103,
+    "forks_count": 150
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "pg-sharding/spqr",
-    "stargazers_count": 1170,
-    "open_issues_count": 55,
-    "forks_count": 59
+    "stargazers_count": 1173,
+    "open_issues_count": 58,
+    "forks_count": 60
   },
   {
     "full_name": "alex-gutev/generic-cl",
     "stargazers_count": 153,
     "open_issues_count": 1,
     "forks_count": 8
-  },
-  {
-    "full_name": "Islam0mar/cl-cxx",
-    "stargazers_count": 33,
-    "open_issues_count": 2,
-    "forks_count": 6
   }
 ]
