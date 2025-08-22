@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Yakvenalex/DigitalMarketHookBot",
+    "stargazers_count": 26,
+    "open_issues_count": 1,
+    "forks_count": 9
+  },
+  {
     "full_name": "fosskers/parcom",
     "stargazers_count": 70,
     "open_issues_count": 0,
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 1480,
-    "open_issues_count": 134,
-    "forks_count": 175
+    "stargazers_count": 1517,
+    "open_issues_count": 136,
+    "forks_count": 183
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -172,11 +178,5 @@
     "stargazers_count": 94,
     "open_issues_count": 17,
     "forks_count": 9
-  },
-  {
-    "full_name": "pg-sharding/spqr",
-    "stargazers_count": 1182,
-    "open_issues_count": 53,
-    "forks_count": 64
   }
 ]
