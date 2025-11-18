@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "icepic1984/mcutiet",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "byulparan/MyCat",
     "stargazers_count": 18,
     "open_issues_count": 1,
@@ -15,7 +21,7 @@
     "full_name": "RodionGork/mts-challenge-2025",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 3
   },
   {
     "full_name": "Yakvenalex/DigitalMarketHookBot",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 2587,
-    "open_issues_count": 140,
-    "forks_count": 305
+    "stargazers_count": 2607,
+    "open_issues_count": 135,
+    "forks_count": 309
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "garlic0x1/rope",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "stepan-mitkin/drakon_editor",
-    "stargazers_count": 372,
+    "stargazers_count": 373,
     "open_issues_count": 44,
     "forks_count": 66
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 96,
     "open_issues_count": 1,
     "forks_count": 9
-  },
-  {
-    "full_name": "KeenS/zenekindarl",
-    "stargazers_count": 35,
-    "open_issues_count": 9,
-    "forks_count": 7
   }
 ]
