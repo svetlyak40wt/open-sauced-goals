@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "gwangjinkim/cl-excel",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "hxzrx/timer-wheel",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "byulparan/MyCat",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "Yakvenalex/DigitalMarketHookBot",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 3144,
+    "stargazers_count": 3231,
     "open_issues_count": 173,
-    "forks_count": 385
+    "forks_count": 398
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -172,11 +178,5 @@
     "stargazers_count": 214,
     "open_issues_count": 8,
     "forks_count": 16
-  },
-  {
-    "full_name": "colfrog/lullaby",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
