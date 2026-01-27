@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "davypough/wouldwork",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "gwangjinkim/cl-excel",
     "stargazers_count": 9,
     "open_issues_count": 0,
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "fosskers/parcom",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 3362,
-    "open_issues_count": 182,
-    "forks_count": 417
+    "stargazers_count": 3442,
+    "open_issues_count": 187,
+    "forks_count": 422
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "stepan-mitkin/drakon_editor",
-    "stargazers_count": 373,
+    "stargazers_count": 374,
     "open_issues_count": 44,
     "forks_count": 65
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "Enerccio/SLT",
-    "stargazers_count": 215,
-    "open_issues_count": 8,
-    "forks_count": 16
   }
 ]
