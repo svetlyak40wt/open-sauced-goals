@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "defendend/Claude-ast-index-search",
+    "stargazers_count": 262,
+    "open_issues_count": 0,
+    "forks_count": 18
+  },
+  {
     "full_name": "DavidAlphaFox/cas-middleware",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -15,7 +21,7 @@
     "full_name": "gwangjinkim/cl-excel",
     "stargazers_count": 13,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "hxzrx/timer-wheel",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 4138,
-    "open_issues_count": 208,
-    "forks_count": 532
+    "stargazers_count": 4182,
+    "open_issues_count": 207,
+    "forks_count": 539
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -172,11 +178,5 @@
     "stargazers_count": 115,
     "open_issues_count": 1,
     "forks_count": 14
-  },
-  {
-    "full_name": "the-flx/cl-flx",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
