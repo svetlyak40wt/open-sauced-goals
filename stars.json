@@ -1,13 +1,19 @@
 [
   {
-    "full_name": "jmeissen/cl-ssh",
+    "full_name": "Alba-Intelligence/cl-tron-mcp",
     "stargazers_count": 4,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "jmeissen/cl-ssh",
+    "stargazers_count": 8,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 338,
+    "stargazers_count": 341,
     "open_issues_count": 2,
     "forks_count": 27
   },
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 4826,
-    "open_issues_count": 190,
-    "forks_count": 656
+    "stargazers_count": 4860,
+    "open_issues_count": 191,
+    "forks_count": 667
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "stepan-mitkin/drakon_editor",
-    "stargazers_count": 378,
+    "stargazers_count": 376,
     "open_issues_count": 44,
     "forks_count": 65
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "mdbergmann/cl-tbnl-gserver-tmgr",
-    "stargazers_count": 27,
-    "open_issues_count": 1,
-    "forks_count": 1
   }
 ]
