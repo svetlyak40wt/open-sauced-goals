@@ -7,15 +7,15 @@
   },
   {
     "full_name": "ageldama/tclish",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
+    "stargazers_count": 14,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "Alba-Intelligence/cl-tron-mcp",
-    "stargazers_count": 5,
+    "stargazers_count": 7,
     "open_issues_count": 1,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "jmeissen/cl-ssh",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 353,
-    "open_issues_count": 5,
+    "stargazers_count": 383,
+    "open_issues_count": 4,
     "forks_count": 30
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "gwangjinkim/cl-excel",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 4990,
-    "open_issues_count": 203,
-    "forks_count": 688
+    "stargazers_count": 5035,
+    "open_issues_count": 210,
+    "forks_count": 695
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
