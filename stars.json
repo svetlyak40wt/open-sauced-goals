@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "jmorrison/reblocks-ui2-sse",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ageldama/doqumen",
     "stargazers_count": 3,
     "open_issues_count": 1,
@@ -8,7 +14,7 @@
   {
     "full_name": "ageldama/tclish",
     "stargazers_count": 15,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -25,8 +31,8 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 393,
-    "open_issues_count": 5,
+    "stargazers_count": 406,
+    "open_issues_count": 7,
     "forks_count": 32
   },
   {
@@ -75,7 +81,7 @@
     "full_name": "RodionGork/mts-challenge-2025",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "Yakvenalex/DigitalMarketHookBot",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 5085,
-    "open_issues_count": 210,
-    "forks_count": 700
+    "stargazers_count": 5118,
+    "open_issues_count": 211,
+    "forks_count": 705
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -172,11 +178,5 @@
     "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "stepan-mitkin/drakon_editor",
-    "stargazers_count": 376,
-    "open_issues_count": 44,
-    "forks_count": 65
   }
 ]
