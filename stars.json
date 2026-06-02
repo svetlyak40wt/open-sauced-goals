@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "azalio/claude-telegram-skill",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "jmorrison/reblocks-ui2-sse",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -25,13 +31,13 @@
   },
   {
     "full_name": "jmeissen/cl-ssh",
-    "stargazers_count": 10,
+    "stargazers_count": 13,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 406,
+    "stargazers_count": 412,
     "open_issues_count": 7,
     "forks_count": 32
   },
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "ten-nancy/porto",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 6,
     "forks_count": 4
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 5118,
-    "open_issues_count": 211,
-    "forks_count": 705
+    "stargazers_count": 5153,
+    "open_issues_count": 216,
+    "forks_count": 714
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -172,11 +178,5 @@
     "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "shamazmazum/similar-images",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 3
   }
 ]
