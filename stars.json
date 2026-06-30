@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "nogipx/vzhukh",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "azalio/claude-telegram-skill",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 471,
-    "open_issues_count": 7,
+    "stargazers_count": 479,
+    "open_issues_count": 6,
     "forks_count": 33
   },
   {
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 5353,
-    "open_issues_count": 235,
-    "forks_count": 745
+    "stargazers_count": 5386,
+    "open_issues_count": 237,
+    "forks_count": 748
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -132,7 +138,7 @@
     "forks_count": 2
   },
   {
-    "full_name": "InventiveWork/drawio-ai",
+    "full_name": "amirrezyd/drawio-ai",
     "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "tdrhq/slite",
-    "stargazers_count": 62,
+    "stargazers_count": 61,
     "open_issues_count": 4,
     "forks_count": 4
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "garlic0x1/rope",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
