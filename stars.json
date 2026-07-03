@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "licjon/cl-llama-cpp",
+    "stargazers_count": 10,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "nogipx/vzhukh",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -37,13 +43,13 @@
   },
   {
     "full_name": "jmeissen/cl-ssh",
-    "stargazers_count": 17,
-    "open_issues_count": 1,
+    "stargazers_count": 18,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 479,
+    "stargazers_count": 483,
     "open_issues_count": 6,
     "forks_count": 33
   },
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "gwangjinkim/cl-excel",
-    "stargazers_count": 15,
+    "stargazers_count": 17,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 5386,
-    "open_issues_count": 237,
-    "forks_count": 748
+    "stargazers_count": 5404,
+    "open_issues_count": 242,
+    "forks_count": 761
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -172,11 +178,5 @@
     "stargazers_count": 33,
     "open_issues_count": 1,
     "forks_count": 2
-  },
-  {
-    "full_name": "X4J14/exo",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
