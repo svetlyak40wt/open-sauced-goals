@@ -1,7 +1,7 @@
 [
   {
     "full_name": "licjon/cl-llama-cpp",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 492,
+    "stargazers_count": 494,
     "open_issues_count": 6,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "DavidAlphaFox/cas-middleware",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 5482,
-    "open_issues_count": 242,
-    "forks_count": 776
+    "stargazers_count": 5524,
+    "open_issues_count": 245,
+    "forks_count": 787
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
