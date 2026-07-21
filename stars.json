@@ -13,7 +13,7 @@
   },
   {
     "full_name": "azalio/claude-telegram-skill",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -39,7 +39,7 @@
     "full_name": "Alba-Intelligence/cl-tron-mcp",
     "stargazers_count": 7,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "jmeissen/cl-ssh",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 497,
+    "stargazers_count": 515,
     "open_issues_count": 7,
     "forks_count": 35
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 5555,
-    "open_issues_count": 231,
-    "forks_count": 790
+    "stargazers_count": 5592,
+    "open_issues_count": 238,
+    "forks_count": 798
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
