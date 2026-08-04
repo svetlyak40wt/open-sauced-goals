@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "kukutz/quill",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "dab512/atomic-spec",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "licjon/cl-llama-cpp",
     "stargazers_count": 11,
     "open_issues_count": 1,
@@ -39,7 +51,7 @@
     "full_name": "Alba-Intelligence/cl-tron-mcp",
     "stargazers_count": 7,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "jmeissen/cl-ssh",
@@ -49,7 +61,7 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 526,
+    "stargazers_count": 531,
     "open_issues_count": 13,
     "forks_count": 34
   },
@@ -133,9 +145,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 5728,
-    "open_issues_count": 233,
-    "forks_count": 822
+    "stargazers_count": 5764,
+    "open_issues_count": 232,
+    "forks_count": 836
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -166,17 +178,5 @@
     "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "anarchodin/trivial-utf-16",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "calsys456/lw-plugins",
-    "stargazers_count": 33,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
