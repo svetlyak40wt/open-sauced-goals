@@ -1,7 +1,7 @@
 [
   {
     "full_name": "kukutz/quill",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -14,12 +14,12 @@
   {
     "full_name": "licjon/cl-llama-cpp",
     "stargazers_count": 11,
-    "open_issues_count": 1,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "nogipx/vzhukh",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 531,
-    "open_issues_count": 13,
-    "forks_count": 34
+    "stargazers_count": 532,
+    "open_issues_count": 14,
+    "forks_count": 35
   },
   {
     "full_name": "DavidAlphaFox/cas-middleware",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "ten-nancy/porto",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 6,
     "forks_count": 4
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 5764,
-    "open_issues_count": 232,
-    "forks_count": 836
+    "stargazers_count": 5786,
+    "open_issues_count": 235,
+    "forks_count": 839
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
