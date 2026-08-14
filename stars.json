@@ -1,14 +1,14 @@
 [
   {
     "full_name": "kukutz/quill",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "dab512/atomic-spec",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 532,
+    "stargazers_count": 533,
     "open_issues_count": 16,
     "forks_count": 36
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "fosskers/parcom",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 5809,
-    "open_issues_count": 236,
-    "forks_count": 844
+    "stargazers_count": 5858,
+    "open_issues_count": 241,
+    "forks_count": 850
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
