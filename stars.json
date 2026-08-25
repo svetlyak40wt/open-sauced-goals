@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "lambda-symbolics/autolith",
+    "stargazers_count": 188,
+    "open_issues_count": 2,
+    "forks_count": 18
+  },
+  {
     "full_name": "kukutz/quill",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -61,8 +67,8 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 543,
-    "open_issues_count": 16,
+    "stargazers_count": 550,
+    "open_issues_count": 17,
     "forks_count": 35
   },
   {
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "Yakvenalex/DigitalMarketHookBot",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 6018,
-    "open_issues_count": 117,
-    "forks_count": 866
+    "stargazers_count": 6089,
+    "open_issues_count": 120,
+    "forks_count": 876
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -172,11 +178,5 @@
     "stargazers_count": 61,
     "open_issues_count": 4,
     "forks_count": 4
-  },
-  {
-    "full_name": "moneylobster/cl-autocorrect",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
