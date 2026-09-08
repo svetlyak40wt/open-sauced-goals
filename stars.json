@@ -1,9 +1,9 @@
 [
   {
     "full_name": "lambda-symbolics/autolith",
-    "stargazers_count": 285,
+    "stargazers_count": 314,
     "open_issues_count": 5,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "kukutz/quill",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "dab512/atomic-spec",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "ageldama/tclish",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "jmeissen/cl-ssh",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 556,
-    "open_issues_count": 18,
+    "stargazers_count": 559,
+    "open_issues_count": 4,
     "forks_count": 38
   },
   {
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 6283,
-    "open_issues_count": 124,
-    "forks_count": 894
+    "stargazers_count": 6353,
+    "open_issues_count": 127,
+    "forks_count": 901
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
