@@ -1,8 +1,8 @@
 [
   {
     "full_name": "lambda-symbolics/autolith",
-    "stargazers_count": 326,
-    "open_issues_count": 5,
+    "stargazers_count": 332,
+    "open_issues_count": 4,
     "forks_count": 26
   },
   {
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 6378,
-    "open_issues_count": 127,
-    "forks_count": 905
+    "stargazers_count": 6412,
+    "open_issues_count": 131,
+    "forks_count": 915
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
