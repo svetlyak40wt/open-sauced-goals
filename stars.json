@@ -1,8 +1,8 @@
 [
   {
     "full_name": "lambda-symbolics/autolith",
-    "stargazers_count": 355,
-    "open_issues_count": 10,
+    "stargazers_count": 362,
+    "open_issues_count": 6,
     "forks_count": 27
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "licjon/cl-llama-cpp",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 5,
     "forks_count": 0
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 562,
+    "stargazers_count": 565,
     "open_issues_count": 5,
     "forks_count": 39
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 6505,
-    "open_issues_count": 143,
-    "forks_count": 924
+    "stargazers_count": 6550,
+    "open_issues_count": 147,
+    "forks_count": 927
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
