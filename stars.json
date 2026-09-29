@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "trailofbits/skills",
+    "stargazers_count": 7285,
+    "open_issues_count": 49,
+    "forks_count": 622
+  },
+  {
     "full_name": "lambda-symbolics/autolith",
-    "stargazers_count": 362,
+    "stargazers_count": 369,
     "open_issues_count": 6,
     "forks_count": 27
   },
@@ -68,7 +74,7 @@
   {
     "full_name": "defendend/Claude-ast-index-search",
     "stargazers_count": 565,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 39
   },
   {
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 6550,
-    "open_issues_count": 147,
-    "forks_count": 927
+    "stargazers_count": 6596,
+    "open_issues_count": 129,
+    "forks_count": 930
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
@@ -172,11 +178,5 @@
     "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "tdrhq/slite",
-    "stargazers_count": 61,
-    "open_issues_count": 4,
-    "forks_count": 4
   }
 ]
