@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "atgreen/evergreen",
+    "stargazers_count": 53,
+    "open_issues_count": 4,
+    "forks_count": 1
+  },
+  {
     "full_name": "SadSabrina/ysda_agents",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -7,19 +13,19 @@
   },
   {
     "full_name": "trailofbits/skills",
-    "stargazers_count": 7385,
-    "open_issues_count": 37,
-    "forks_count": 631
+    "stargazers_count": 7441,
+    "open_issues_count": 38,
+    "forks_count": 634
   },
   {
     "full_name": "lambda-symbolics/autolith",
-    "stargazers_count": 419,
-    "open_issues_count": 6,
-    "forks_count": 33
+    "stargazers_count": 465,
+    "open_issues_count": 9,
+    "forks_count": 37
   },
   {
     "full_name": "kukutz/quill",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 570,
+    "stargazers_count": 572,
     "open_issues_count": 5,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "DavidAlphaFox/cas-middleware",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 6676,
-    "open_issues_count": 135,
-    "forks_count": 946
+    "stargazers_count": 6706,
+    "open_issues_count": 139,
+    "forks_count": 955
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
     "stargazers_count": 9,
     "open_issues_count": 4,
     "forks_count": 2
-  },
-  {
-    "full_name": "amirrezyd/drawio-ai",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
