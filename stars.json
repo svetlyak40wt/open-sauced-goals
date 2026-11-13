@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "everton/lisp-over-linux",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "atgreen/evergreen",
     "stargazers_count": 65,
-    "open_issues_count": 29,
+    "open_issues_count": 31,
     "forks_count": 3
   },
   {
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "trailofbits/skills",
-    "stargazers_count": 8100,
-    "open_issues_count": 154,
-    "forks_count": 691
+    "stargazers_count": 8167,
+    "open_issues_count": 159,
+    "forks_count": 697
   },
   {
     "full_name": "lambda-symbolics/autolith",
-    "stargazers_count": 547,
-    "open_issues_count": 6,
-    "forks_count": 53
+    "stargazers_count": 553,
+    "open_issues_count": 10,
+    "forks_count": 55
   },
   {
     "full_name": "kukutz/quill",
@@ -68,7 +74,7 @@
   {
     "full_name": "Alba-Intelligence/cl-tron-mcp",
     "stargazers_count": 9,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 4
   },
   {
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 585,
-    "open_issues_count": 3,
-    "forks_count": 45
+    "stargazers_count": 589,
+    "open_issues_count": 4,
+    "forks_count": 46
   },
   {
     "full_name": "DavidAlphaFox/cas-middleware",
@@ -163,8 +169,8 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 7064,
-    "open_issues_count": 162,
+    "stargazers_count": 7107,
+    "open_issues_count": 169,
     "forks_count": 1008
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 9,
     "open_issues_count": 4,
     "forks_count": 2
-  },
-  {
-    "full_name": "amirrezyd/drawio-ai",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
