@@ -1,13 +1,13 @@
 [
   {
     "full_name": "everton/lisp-over-linux",
-    "stargazers_count": 3,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "atgreen/evergreen",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 31,
     "forks_count": 3
   },
@@ -19,14 +19,14 @@
   },
   {
     "full_name": "trailofbits/skills",
-    "stargazers_count": 8167,
-    "open_issues_count": 159,
-    "forks_count": 697
+    "stargazers_count": 8242,
+    "open_issues_count": 162,
+    "forks_count": 713
   },
   {
     "full_name": "lambda-symbolics/autolith",
-    "stargazers_count": 553,
-    "open_issues_count": 10,
+    "stargazers_count": 565,
+    "open_issues_count": 11,
     "forks_count": 55
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 589,
+    "stargazers_count": 596,
     "open_issues_count": 4,
     "forks_count": 46
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 7107,
-    "open_issues_count": 169,
-    "forks_count": 1008
+    "stargazers_count": 7143,
+    "open_issues_count": 173,
+    "forks_count": 1015
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
