@@ -8,7 +8,7 @@
   {
     "full_name": "atgreen/evergreen",
     "stargazers_count": 68,
-    "open_issues_count": 16,
+    "open_issues_count": 14,
     "forks_count": 3
   },
   {
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "trailofbits/skills",
-    "stargazers_count": 8310,
-    "open_issues_count": 167,
-    "forks_count": 717
+    "stargazers_count": 8388,
+    "open_issues_count": 172,
+    "forks_count": 732
   },
   {
     "full_name": "lambda-symbolics/autolith",
-    "stargazers_count": 586,
-    "open_issues_count": 11,
-    "forks_count": 57
+    "stargazers_count": 604,
+    "open_issues_count": 17,
+    "forks_count": 56
   },
   {
     "full_name": "kukutz/quill",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "defendend/Claude-ast-index-search",
-    "stargazers_count": 600,
+    "stargazers_count": 601,
     "open_issues_count": 5,
     "forks_count": 47
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "Beingpax/VoiceInk",
-    "stargazers_count": 7167,
-    "open_issues_count": 173,
-    "forks_count": 1020
+    "stargazers_count": 7200,
+    "open_issues_count": 176,
+    "forks_count": 1024
   },
   {
     "full_name": "yandex-cloud/yc-serverless-live-debug",
